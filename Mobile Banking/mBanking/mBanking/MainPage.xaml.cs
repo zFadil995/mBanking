@@ -1,4 +1,5 @@
-﻿using FFImageLoading.Forms;
+﻿//Random Line
+using FFImageLoading.Forms;
 using Plugin.Geolocator;
 using Plugin.Geolocator.Abstractions;
 using System;
