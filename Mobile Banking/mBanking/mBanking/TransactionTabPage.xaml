@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:FFImage="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="mBanking.TransactionTabPage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#B0BEC5" Padding="2, 2, 2, 2">
+      <ListView x:Name="transactionsList" SeparatorVisibility="Default" SeparatorColor="#424242" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" IsGroupingEnabled="true" GroupDisplayBinding="{Binding longType}">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Center" Padding="10, 2, 20, 2">
+                <Grid HorizontalOptions="Start" VerticalOptions="CenterAndExpand">
+                  <FFImage:CachedImage Source="{Binding type_color}" HorizontalOptions="Start" VerticalOptions="CenterAndExpand" HeightRequest="50" WidthRequest="50" DownsampleToViewSize="true"/>
+                  <Image Source="{Binding type_color}" HorizontalOptions="Start" VerticalOptions="CenterAndExpand" HeightRequest="50" WidthRequest="50"  Grid.Row="0" Grid.Column="0"/>
+                  <StackLayout Orientation="Vertical" HorizontalOptions="Fill" Spacing="0" VerticalOptions="Fill" Grid.Row="0" Grid.Column="0">
+                    <Label Text="{Binding month}" FontSize="12" TextColor="#000000" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand" VerticalTextAlignment="End" HorizontalTextAlignment="Center"/>
+                    <Label Text="{Binding day}" FontSize="15" TextColor="#000000" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" VerticalTextAlignment="Start" HorizontalTextAlignment="Center"/>
+                  </StackLayout>
+                </Grid>
+                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+                  <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="EndAndExpand">
+                    <Label Text="{Binding type_name}" TextColor="#000000" HorizontalOptions="StartAndExpand" VerticalOptions="EndAndExpand" VerticalTextAlignment="End" HorizontalTextAlignment="Start"/>
+                    <Label Text="{Binding amount_localized}" TextColor="#000000" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand" VerticalTextAlignment="End" HorizontalTextAlignment="End"/>
+                  </StackLayout>
+                  <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" VerticalOptions="StartAndExpand">
+                    <Label Text="{Binding description}" TextColor="#757575" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" VerticalTextAlignment="Start" HorizontalTextAlignment="Start"/>
+                    <FFImage:CachedImage Source="{Binding type_image}" HeightRequest="20" WidthRequest="20" DownsampleToViewSize="true" HorizontalOptions="EndAndExpand" VerticalOptions="StartAndExpand"/>
+                  </StackLayout>
+                </StackLayout>
+              </StackLayout>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+      <Button x:Name="loadMoreButton" Text="Load More Items" TextColor="#000000" HorizontalOptions="Fill" VerticalOptions="End" BackgroundColor="#FFFFFF"/>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

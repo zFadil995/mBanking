@@ -1,0 +1,3866 @@
+﻿[
+      {
+        "name": "ATM 1",
+        "address": "OZALJSKA 4, ZAGREB",
+        "gpsx": "15.95323477",
+        "gpsy": "45.79989835"
+      },
+      {
+        "name": "ATM 2",
+        "address": "KIŠPATIĆEVA 12, ZAGREB",
+        "gpsx": "16.00822672",
+        "gpsy": "45.82347522"
+      },
+      {
+        "name": "ATM 3",
+        "address": "DUGOSELSKA 33 A, SESVETE",
+        "gpsx": "17.90925875",
+        "gpsy": "45.19019336"
+      },
+      {
+        "name": "ATM 4",
+        "address": "ADRESA NOVA, SESVETE",
+        "gpsx": "16.10415656",
+        "gpsy": "45.82821337"
+      },
+      {
+        "name": "ATM 5",
+        "address": "TRG KRALJA TOMISLAVA 6, SAMOBOR",
+        "gpsx": "15.7098541",
+        "gpsy": "45.80196936"
+      },
+      {
+        "name": "ATM 6",
+        "address": "ULICA SLOBODE 7, SPLIT",
+        "gpsx": "16.44902718",
+        "gpsy": "43.51010303"
+      },
+      {
+        "name": "ATM 7",
+        "address": "PUJANKE 24/F5, SPLIT",
+        "gpsx": "16.47361315",
+        "gpsy": "43.51685943"
+      },
+      {
+        "name": "ATM 8",
+        "address": "OBALA KR.TOMISLAVA 12, MAKARSKA",
+        "gpsx": "17.01817774",
+        "gpsy": "43.29502397"
+      },
+      {
+        "name": "ATM 9",
+        "address": "CESTA DR. FRANJE TUĐMANA 7, KAŠTEL SUĆURAC",
+        "gpsx": "16.4489554",
+        "gpsy": "43.54018827"
+      },
+      {
+        "name": "ATM 10",
+        "address": "TRG SVETOG STJEPANA BB, HVAR",
+        "gpsx": "16.442235",
+        "gpsy": "43.172353"
+      },
+      {
+        "name": "ATM 11",
+        "address": "DR.F.TUĐMANA BB, KAŠTEL KAMBELOVAC",
+        "gpsx": "16.39260175",
+        "gpsy": "43.54932037"
+      },
+      {
+        "name": "ATM 12",
+        "address": "TRG IVANA PAVLA II BR.1, TROGIR",
+        "gpsx": "16.25149954",
+        "gpsy": "43.51681089"
+      },
+      {
+        "name": "ATM 13",
+        "address": "BUTINA B.B., MURTER",
+        "gpsx": "15.592475",
+        "gpsy": "43.821152"
+      },
+      {
+        "name": "ATM 14",
+        "address": "RIVA 4, STOMORSKA",
+        "gpsx": "16.35319543",
+        "gpsy": "43.36956995"
+      },
+      {
+        "name": "ATM 15",
+        "address": "ŽNJANSKA 2, SPLIT",
+        "gpsx": "16.48312575",
+        "gpsy": "43.50639618"
+      },
+      {
+        "name": "ATM 16",
+        "address": "BENCEKOVIĆEVA 27, ZAGREB",
+        "gpsx": "15.960217",
+        "gpsy": "45.784644"
+      },
+      {
+        "name": "ATM 17",
+        "address": "KREŠIĆEVA 32, ZAGREB",
+        "gpsx": "16.0196673",
+        "gpsy": "45.81500042"
+      },
+      {
+        "name": "ATM 18",
+        "address": "TRG SLOBODE 10, LUDBREG",
+        "gpsx": "16.618248",
+        "gpsy": "46.252397"
+      },
+      {
+        "name": "ATM 19",
+        "address": "BANA JOSIPA JELAČIĆA 12, DALJ",
+        "gpsx": "18.98477964",
+        "gpsy": "45.48594058"
+      },
+      {
+        "name": "ATM 20",
+        "address": "ULICA REPUBLIKE 1, BELI MANASTIR",
+        "gpsx": "18.59807347",
+        "gpsy": "45.77097639"
+      },
+      {
+        "name": "ATM 21",
+        "address": "ZVONARSKA 57, VINKOVCI",
+        "gpsx": "18.81816285",
+        "gpsy": "45.29184479"
+      },
+      {
+        "name": "ATM 22",
+        "address": "TRPIMIROVA 24, OSIJEK",
+        "gpsx": "18.68864761",
+        "gpsy": "45.54529709"
+      },
+      {
+        "name": "ATM 23",
+        "address": "SVILAJSKA CESTA 36, OSIJEK",
+        "gpsx": "18.638369",
+        "gpsy": "45.561867"
+      },
+      {
+        "name": "ATM 24",
+        "address": "SAVSKA 28, ZAGREB",
+        "gpsx": "15.96421017",
+        "gpsy": "45.80291569"
+      },
+      {
+        "name": "ATM 25",
+        "address": "RAČKOGA 6, ZAGREB",
+        "gpsx": "15.98487003",
+        "gpsy": "45.81112963"
+      },
+      {
+        "name": "ATM 26",
+        "address": "BRAĆE BOŽIĆ 4C, PULA",
+        "gpsx": "13.65718",
+        "gpsy": "45.079873"
+      },
+      {
+        "name": "ATM 27",
+        "address": "JOSIPA BROZA TITA 2, ZABOK",
+        "gpsx": "15.904255",
+        "gpsy": "46.023385"
+      },
+      {
+        "name": "ATM 28",
+        "address": "TRG BANA JELAČIĆA BB, TOPUSKO",
+        "gpsx": "15.968714",
+        "gpsy": "45.290226"
+      },
+      {
+        "name": "ATM 29",
+        "address": "ZAGREBAČKA ULICA B.B., SISAK",
+        "gpsx": "16.355557",
+        "gpsy": "45.496748"
+      },
+      {
+        "name": "ATM 30",
+        "address": "ANTUNA I STJEPANA RADIĆA BB, GLINA",
+        "gpsx": "16.089456",
+        "gpsy": "45.338376"
+      },
+      {
+        "name": "ATM 31",
+        "address": "BRAĆE RADIĆA 54, ČAKOVEC",
+        "gpsx": "16.477883",
+        "gpsy": "46.394158"
+      },
+      {
+        "name": "ATM 32",
+        "address": "PLEŠKOVEC 3A, LOPATINEC",
+        "gpsx": "16.380594",
+        "gpsy": "46.438633"
+      },
+      {
+        "name": "ATM 33",
+        "address": "GLAVNA 29, PRELOG",
+        "gpsx": "16.613474",
+        "gpsy": "46.337632"
+      },
+      {
+        "name": "ATM 34",
+        "address": "J.J. STROSSMAYERA 5, SLAVONSKI BROD",
+        "gpsx": "18.02163544",
+        "gpsy": "45.1534724"
+      },
+      {
+        "name": "ATM 35",
+        "address": "KRALJA TOMISLAVA 1, NOVA KAPELA (SLAVONIJA)",
+        "gpsx": "17.64184392",
+        "gpsy": "45.19610735"
+      },
+      {
+        "name": "ATM 36",
+        "address": "TRG DR.FRANJE TUĐMANA 5, NOVSKA",
+        "gpsx": "16.97596475",
+        "gpsy": "45.33997035"
+      },
+      {
+        "name": "ATM 37",
+        "address": "TRG HR.BRANITELJA 1, GAREŠNICA",
+        "gpsx": "16.94182823",
+        "gpsy": "45.57598596"
+      },
+      {
+        "name": "ATM 38",
+        "address": "TRG KRALJA TOMISLAVA 17, DARUVAR",
+        "gpsx": "17.22435111",
+        "gpsy": "45.59238913"
+      },
+      {
+        "name": "ATM 39",
+        "address": "TRG ALOJZIJA STEPINCA 1, GOSPIĆ",
+        "gpsx": "15.37506062",
+        "gpsy": "44.54672206"
+      },
+      {
+        "name": "ATM 40",
+        "address": "GRABOVAC BB, GRABOVAC",
+        "gpsx": "15.647085",
+        "gpsy": "44.970537"
+      },
+      {
+        "name": "ATM 41",
+        "address": "KRALJA ZVONIMIRA 16, ORAHOVICA",
+        "gpsx": "17.88170482",
+        "gpsy": "45.52931768"
+      },
+      {
+        "name": "ATM 42",
+        "address": "BRAĆE RADIĆA 104, NAŠICE",
+        "gpsx": "18.10491754",
+        "gpsy": "45.49204886"
+      },
+      {
+        "name": "ATM 43",
+        "address": "TRG SVETOG KRIŽA, KRIŽ",
+        "gpsx": "16.518352",
+        "gpsy": "45.660997"
+      },
+      {
+        "name": "ATM 44",
+        "address": "ŠKOLSKA 2, IVANIĆ-GRAD",
+        "gpsx": "16.39109084",
+        "gpsy": "45.70524003"
+      },
+      {
+        "name": "ATM 45",
+        "address": "OBALA S. RADIĆA 8, DUBROVNIK",
+        "gpsx": "18.08828692",
+        "gpsy": "42.65433019"
+      },
+      {
+        "name": "ATM 46",
+        "address": "DR. ROKA MIŠETIĆA  2, DUBROVNIK",
+        "gpsx": "18.07531757",
+        "gpsy": "42.64815608"
+      },
+      {
+        "name": "ATM 47",
+        "address": "ANTE STARČEVIĆA 1, ZADAR",
+        "gpsx": "15.2412158",
+        "gpsy": "44.10628038"
+      },
+      {
+        "name": "ATM 48",
+        "address": "FABRIKA BB, HVAR",
+        "gpsx": "16.43882378",
+        "gpsy": "43.17155903"
+      },
+      {
+        "name": "ATM 49",
+        "address": "PORAT 1, IGRANE",
+        "gpsx": "17.15434756",
+        "gpsy": "43.19217409"
+      },
+      {
+        "name": "ATM 50",
+        "address": "TRGOVAČKI CENTAR DALMARE, ŠIBENIK",
+        "gpsx": "15.912891",
+        "gpsy": "43.711898"
+      },
+      {
+        "name": "ATM 51",
+        "address": "PODI B.B., DUGOPOLJE",
+        "gpsx": "16.576973",
+        "gpsy": "43.587603"
+      },
+      {
+        "name": "ATM 52",
+        "address": "SVETOG PETRA BB, KRK",
+        "gpsx": "14.569523",
+        "gpsy": "45.032637"
+      },
+      {
+        "name": "ATM 53",
+        "address": "BAŠTIJANOVA BB, RIJEKA",
+        "gpsx": "14.44349731",
+        "gpsy": "45.33295155"
+      },
+      {
+        "name": "ATM 54",
+        "address": "MARŠALA TITA 29, LOVRAN",
+        "gpsx": "14.27649818",
+        "gpsy": "45.29372188"
+      },
+      {
+        "name": "ATM 55",
+        "address": "SVETI VID B.B., MALINSKA",
+        "gpsx": "45.127865",
+        "gpsy": "14.542165"
+      },
+      {
+        "name": "ATM 56",
+        "address": "OBALA MARŠALA TITA 17, VELI LOŠINJ",
+        "gpsx": "14.50184553",
+        "gpsy": "44.52104083"
+      },
+      {
+        "name": "ATM 57",
+        "address": "F.LA GUARDIA 4, RIJEKA",
+        "gpsx": "14.43483298",
+        "gpsy": "45.33057965"
+      },
+      {
+        "name": "ATM 58",
+        "address": "DRAGUTINA DOMJANIĆA 17, KARLOVAC",
+        "gpsx": "15.54283845",
+        "gpsy": "45.4813396"
+      },
+      {
+        "name": "ATM 59",
+        "address": "RUDEŠKA 140, VRBANI, ZAGREB",
+        "gpsx": "15.91919375",
+        "gpsy": "45.79475488"
+      },
+      {
+        "name": "ATM 60",
+        "address": "ILICA 87, ZAGREB",
+        "gpsx": "15.96214856",
+        "gpsy": "45.81240358"
+      },
+      {
+        "name": "ATM 61",
+        "address": "TRG ŽRTAVA OVČARE 1, VUKOVAR",
+        "gpsx": "19.01745662",
+        "gpsy": "45.33963601"
+      },
+      {
+        "name": "ATM 62",
+        "address": "OSJEČKA 11, ČEPIN",
+        "gpsx": "18.5788901",
+        "gpsy": "45.52437123"
+      },
+      {
+        "name": "ATM 63",
+        "address": "GRAHOROVA 9A, ZAGREB",
+        "gpsx": "15.950603",
+        "gpsy": "45.811692"
+      },
+      {
+        "name": "ATM 64",
+        "address": "KOLEDINEČKA BB, DUBRAVA, ZAGREB-DUBRAVA",
+        "gpsx": "16.058412",
+        "gpsy": "45.831315"
+      },
+      {
+        "name": "ATM 65",
+        "address": "INDUSTRIJSKA B.B., ZAPREŠIĆ",
+        "gpsx": "15.786753",
+        "gpsy": "45.862722"
+      },
+      {
+        "name": "ATM 66",
+        "address": "OPOROVEČKA 14, ZAGREB",
+        "gpsx": "16.045612",
+        "gpsy": "45.835815"
+      },
+      {
+        "name": "ATM 67",
+        "address": "KAPTOL 24, ZAGREB",
+        "gpsx": "15.978325",
+        "gpsy": "45.81661951"
+      },
+      {
+        "name": "ATM 68",
+        "address": "ALBRECHTOVA 30, ZAGREB",
+        "gpsx": "16.02739265",
+        "gpsy": "45.81741879"
+      },
+      {
+        "name": "ATM 69",
+        "address": "AV.DUBROVNIK 16, ZAGREB",
+        "gpsx": "15.97924814",
+        "gpsy": "45.77710276"
+      },
+      {
+        "name": "ATM 70",
+        "address": "ANTE STARČEVIĆA 11A, ZAPREŠIĆ",
+        "gpsx": "15.800078",
+        "gpsy": "45.861713"
+      },
+      {
+        "name": "ATM 71",
+        "address": "OBALA SVETOG JURJA 32, VIS",
+        "gpsx": "16.18517923",
+        "gpsy": "43.0601022"
+      },
+      {
+        "name": "ATM 72",
+        "address": "BANA JELAČIĆA 17, OKRUG GORNJI",
+        "gpsx": "16.26409655",
+        "gpsy": "43.49345398"
+      },
+      {
+        "name": "ATM 73",
+        "address": "MATOŠEVA BB, SOLIN",
+        "gpsx": "16.490198",
+        "gpsy": "43.529999"
+      },
+      {
+        "name": "ATM 74",
+        "address": "AUTOCESTA A1 ZG-DU, DIONICA BISKO - ŠESTANOVAC, BLATO NA CETINI",
+        "gpsx": "16.784964",
+        "gpsy": "43.493623"
+      },
+      {
+        "name": "ATM 75",
+        "address": "PUL VELE CRIKVE 1, RIJEKA",
+        "gpsx": "14.44523264",
+        "gpsy": "45.32661373"
+      },
+      {
+        "name": "ATM 76",
+        "address": "ZRINSKI FRANKOPANSKA 2, JASTREBARSKO",
+        "gpsx": "15.65005318",
+        "gpsy": "45.67175147"
+      },
+      {
+        "name": "ATM 77",
+        "address": "LANIŠTE 13 D, ZAGREB",
+        "gpsx": "15.94589642",
+        "gpsy": "45.77311208"
+      },
+      {
+        "name": "ATM 78",
+        "address": "LOVĆENSKA 2, MLINOVI, ZAGREB",
+        "gpsx": "15.96534731",
+        "gpsy": "45.84654393"
+      },
+      {
+        "name": "ATM 79",
+        "address": "BIJENIČKA 5, ZAGREB",
+        "gpsx": "15.98469246",
+        "gpsy": "45.82476474"
+      },
+      {
+        "name": "ATM 80",
+        "address": "ŠKOLSKA 39, NOVO SELO, VINKOVCI",
+        "gpsx": "18.76934739",
+        "gpsy": "45.29003426"
+      },
+      {
+        "name": "ATM 81",
+        "address": "DUGA ULICA 20, VINKOVCI",
+        "gpsx": "18.80158976",
+        "gpsy": "45.28822879"
+      },
+      {
+        "name": "ATM 82",
+        "address": "VLADIMIRA NAZORA 1, OTOK",
+        "gpsx": "18.88297838",
+        "gpsy": "45.14632889"
+      },
+      {
+        "name": "ATM 83",
+        "address": "LANIŠTE 32-ARENA, ZAGREB",
+        "gpsx": "15.94078794",
+        "gpsy": "45.77170363"
+      },
+      {
+        "name": "ATM 84",
+        "address": "TITOVA RIVA 3, FAŽANA",
+        "gpsx": "13.80295559",
+        "gpsy": "44.92700505"
+      },
+      {
+        "name": "ATM 85",
+        "address": "AUTO CAMP BIJELA UVALA, POREČ",
+        "gpsx": "15.591375",
+        "gpsy": "45.189296"
+      },
+      {
+        "name": "ATM 86",
+        "address": "MATIJE GUPCA 64, ZABOK",
+        "gpsx": "15.9039514",
+        "gpsy": "46.02599381"
+      },
+      {
+        "name": "ATM 87",
+        "address": "ANTE STARČEVIĆA 3, KRAPINA",
+        "gpsx": "15.87270826",
+        "gpsy": "46.15959032"
+      },
+      {
+        "name": "ATM 88",
+        "address": "STJEPANA RADIĆA 12, PREGRADA",
+        "gpsx": "15.74969048",
+        "gpsy": "46.16292988"
+      },
+      {
+        "name": "ATM 89",
+        "address": "ŠKOLSKA 22, GORIČAN",
+        "gpsx": "16.672719",
+        "gpsy": "46.384197"
+      },
+      {
+        "name": "ATM 90",
+        "address": "DR. LJUDEVITA GAJA BB, BELICA",
+        "gpsx": "16.521324",
+        "gpsy": "46.407187"
+      },
+      {
+        "name": "ATM 91",
+        "address": "TRG REPUBLIKE 16, DONJA DUBRAVA",
+        "gpsx": "16.811668",
+        "gpsy": "46.315691"
+      },
+      {
+        "name": "ATM 92",
+        "address": "ČAKOVEČKA 3, DONJI KRALJEVEC",
+        "gpsx": "16.6486",
+        "gpsy": "46.368504"
+      },
+      {
+        "name": "ATM 93",
+        "address": "ZAGREBAČKA 87, ČAKOVEC",
+        "gpsx": "16.415527",
+        "gpsy": "46.38168"
+      },
+      {
+        "name": "ATM 94",
+        "address": "LJ. GAJA 41, SIKIREVCI",
+        "gpsx": "18.466001",
+        "gpsy": "45.110634"
+      },
+      {
+        "name": "ATM 95",
+        "address": "DR. MILE BUDAKA 1, SLAVONSKI BROD",
+        "gpsx": "18.00901678",
+        "gpsy": "45.16537765"
+      },
+      {
+        "name": "ATM 96",
+        "address": "KRASNO 109, KRASNO",
+        "gpsx": "15.05179902",
+        "gpsy": "44.82143331"
+      },
+      {
+        "name": "ATM 97",
+        "address": "TRG A.STARČEVIĆA 1, DONJI MIHOLJAC",
+        "gpsx": "18.16472246",
+        "gpsy": "45.76177839"
+      },
+      {
+        "name": "ATM 98",
+        "address": "TRG DORE PEJAČEVIĆ 10, NAŠICE",
+        "gpsx": "18.08804585",
+        "gpsy": "45.49120603"
+      },
+      {
+        "name": "ATM 99",
+        "address": "MATIJE GUPCA 3, FERIČANCI",
+        "gpsx": "17.97882905",
+        "gpsy": "45.5239122"
+      },
+      {
+        "name": "ATM 100",
+        "address": "UL.POGINULIH BRANITELJA BB, VRBOVEC",
+        "gpsx": "16.418166",
+        "gpsy": "45.883018"
+      },
+      {
+        "name": "ATM 101",
+        "address": "KRALJA TOMISLAVA 4, CERNA",
+        "gpsx": "18.68764146",
+        "gpsy": "45.18708539"
+      },
+      {
+        "name": "ATM 102",
+        "address": "FRA T. B. LEAKOVIĆA 13, BOŠNJACI",
+        "gpsx": "18.75545832",
+        "gpsy": "45.04995351"
+      },
+      {
+        "name": "ATM 103",
+        "address": "DR. ANTE STARČEVIĆA 2, MLINI",
+        "gpsx": "18.209839",
+        "gpsy": "42.628402"
+      },
+      {
+        "name": "ATM 104",
+        "address": "DONJE ČELO BB, KOLOČEP",
+        "gpsx": "18.010626",
+        "gpsy": "42.677545"
+      },
+      {
+        "name": "ATM 105",
+        "address": "MASSARYKOV PUT 9, DUBROVNIK",
+        "gpsx": "18.06421246",
+        "gpsy": "42.65272327"
+      },
+      {
+        "name": "ATM 106",
+        "address": "OBALA 3 KBR 5, VELA LUKA",
+        "gpsx": "16.71745746",
+        "gpsy": "42.96144791"
+      },
+      {
+        "name": "ATM 107",
+        "address": "KRALJA ZVONIMIRA BB, METKOVIĆ",
+        "gpsx": "17.648538",
+        "gpsy": "43.052979"
+      },
+      {
+        "name": "ATM 108",
+        "address": "TRG KRALJA TOMISLAVA 2, KORČULA",
+        "gpsx": "17.13637474",
+        "gpsy": "42.96050726"
+      },
+      {
+        "name": "ATM 109",
+        "address": "ZAGREBAČKA 3, ZADAR",
+        "gpsx": "15.25588416",
+        "gpsy": "44.11518367"
+      },
+      {
+        "name": "ATM 110",
+        "address": "HRVATSKOG SABORA 62, ZADAR",
+        "gpsx": "15.2698244",
+        "gpsy": "44.09808166"
+      },
+      {
+        "name": "ATM 111",
+        "address": "KRALJA TOMISLAVA 9, KNIN",
+        "gpsx": "16.19800477",
+        "gpsy": "44.04301863"
+      },
+      {
+        "name": "ATM 112",
+        "address": "ZELENA LAGUNA BB, POREČ",
+        "gpsx": "13.590764",
+        "gpsy": "45.200554"
+      },
+      {
+        "name": "ATM 113",
+        "address": "N.QUARANTOTTO BB, ROVINJ (ROVIGNO)",
+        "gpsx": "13.637322",
+        "gpsy": "45.080123"
+      },
+      {
+        "name": "ATM 114",
+        "address": "KUČERINA 76, ZAGREB",
+        "gpsx": "15.952921",
+        "gpsy": "45.806098"
+      },
+      {
+        "name": "ATM 115",
+        "address": "SPLITSKA 37, SINJ",
+        "gpsx": "17.25608798",
+        "gpsy": "45.52808464"
+      },
+      {
+        "name": "ATM 116",
+        "address": "TRG MATICE HRVATSKE 1, IMOTSKI",
+        "gpsx": "17.214503",
+        "gpsy": "43.447809"
+      },
+      {
+        "name": "ATM 117",
+        "address": "PALADA 32, BAKAR",
+        "gpsx": "14.53611274",
+        "gpsy": "45.30565293"
+      },
+      {
+        "name": "ATM 118",
+        "address": "KVATERNIKOVA 62 B, RIJEKA",
+        "gpsx": "14.47495106",
+        "gpsy": "45.3205356"
+      },
+      {
+        "name": "ATM 119",
+        "address": "PRILAZ VEĆESLAVA HOLJEVCA 12, KARLOVAC",
+        "gpsx": "15.545397",
+        "gpsy": "45.502647"
+      },
+      {
+        "name": "ATM 120",
+        "address": "VELIMIRA ŠKORPIKA BB, ZAGREB",
+        "gpsx": "15.85945",
+        "gpsy": "45.805417"
+      },
+      {
+        "name": "ATM 121",
+        "address": "PLESO BB, ZRAČNA LUKA MD, VELIKA GORICA",
+        "gpsx": "16.059618",
+        "gpsy": "45.73179"
+      },
+      {
+        "name": "ATM 122",
+        "address": "LASTOVSKA 23, SAVICA, ZAGREB",
+        "gpsx": "15.99915795",
+        "gpsy": "45.79408257"
+      },
+      {
+        "name": "ATM 123",
+        "address": "AVENIJA DUBRAVA 39, ZAGREB-DUBRAVA",
+        "gpsx": "16.04605685",
+        "gpsy": "45.82700143"
+      },
+      {
+        "name": "ATM 124",
+        "address": "TRG P.PRERADOVIĆA 4, ZAGREB",
+        "gpsx": "15.97340216",
+        "gpsy": "45.81225204"
+      },
+      {
+        "name": "ATM 125",
+        "address": "POTHODNIK GL. KOLODVOR, ZAGREB",
+        "gpsx": "15.978892",
+        "gpsy": "45.804651"
+      },
+      {
+        "name": "ATM 126",
+        "address": "KOLAROVA 15, ZAGREB",
+        "gpsx": "16.024268",
+        "gpsy": "45.805006"
+      },
+      {
+        "name": "ATM 127",
+        "address": "RAVNICE 48, ZAGREB",
+        "gpsx": "16.02942216",
+        "gpsy": "45.8210813"
+      },
+      {
+        "name": "ATM 128",
+        "address": "HRVATSKIH BRANITELJA 1, DUGO SELO",
+        "gpsx": "16.23623729",
+        "gpsy": "45.80452823"
+      },
+      {
+        "name": "ATM 129",
+        "address": "ZRINSKI FRANKOPANSKA 2, JASTREBARSKO",
+        "gpsx": "15.65005318",
+        "gpsy": "45.67175147"
+      },
+      {
+        "name": "ATM 130",
+        "address": "TRG HRVAT.DRŽAVNOSTI 1, NOVI MAROF",
+        "gpsx": "16.33446267",
+        "gpsy": "46.16384929"
+      },
+      {
+        "name": "ATM 131",
+        "address": "BRAJDINE 115, MEDULIN",
+        "gpsx": "13.931973",
+        "gpsy": "44.823917"
+      },
+      {
+        "name": "ATM 132",
+        "address": "TRG ZRIN.I FRANKOPANA, PLETERNICA",
+        "gpsx": "17.798495",
+        "gpsy": "45.286029"
+      },
+      {
+        "name": "ATM 133",
+        "address": "EUGENA KUMIČIĆA 57, SLAVONSKI BROD",
+        "gpsx": "18.018262",
+        "gpsy": "45.16788352"
+      },
+      {
+        "name": "ATM 134",
+        "address": "TRG BAZILIKE BB, NOVALJA",
+        "gpsx": "14.884307",
+        "gpsy": "44.554546"
+      },
+      {
+        "name": "ATM 135",
+        "address": "JOSIPA JOVIĆA BB, KORENICA",
+        "gpsx": "15.687318",
+        "gpsy": "44.77559"
+      },
+      {
+        "name": "ATM 136",
+        "address": "TRG RUDERA BOSKOVCA BB, SLATINA",
+        "gpsx": "17.700262",
+        "gpsy": "45.704703"
+      },
+      {
+        "name": "ATM 137",
+        "address": "ŠETALIŠTE K.ZVONIMIRA 19, DUBROVNIK",
+        "gpsx": "18.06990516",
+        "gpsy": "42.65461956"
+      },
+      {
+        "name": "ATM 138",
+        "address": "OD IZVORA 64, MOKOŠICA",
+        "gpsx": "18.11185331",
+        "gpsy": "42.67558728"
+      },
+      {
+        "name": "ATM 139",
+        "address": "TRG KRALJA TOMISLAVA 6, PLOČE",
+        "gpsx": "17.43492059",
+        "gpsy": "43.04937218"
+      },
+      {
+        "name": "ATM 140",
+        "address": "ULICA 31 BROJ 2/3, BLATO",
+        "gpsx": "16.793418",
+        "gpsy": "42.939083"
+      },
+      {
+        "name": "ATM 141",
+        "address": "ANDRAŠECOVA 20, ZAGREB",
+        "gpsx": "15.960216",
+        "gpsy": "45.799737"
+      },
+      {
+        "name": "ATM 142",
+        "address": "IBLEROV TRG 10, ZAGREB",
+        "gpsx": "15.98518899",
+        "gpsy": "45.81309146"
+      },
+      {
+        "name": "ATM 143",
+        "address": "SVETI DUH 69/A, ZAGREB",
+        "gpsx": "15.93830822",
+        "gpsy": "45.81982276"
+      },
+      {
+        "name": "ATM 144",
+        "address": "PALINOVEČKA 19 B, ZAGREB",
+        "gpsx": "15.9137848",
+        "gpsy": "45.79050479"
+      },
+      {
+        "name": "ATM 145",
+        "address": "ZAPREŠIĆKA 2, JABLANOVEC, DONJA BISTRA",
+        "gpsx": "15.826737",
+        "gpsy": "45.870835"
+      },
+      {
+        "name": "ATM 146",
+        "address": "LADISLAVA ŠABANA 16, SESVETE",
+        "gpsx": "16.102867",
+        "gpsy": "45.818272"
+      },
+      {
+        "name": "ATM 147",
+        "address": "MATOŠIĆEVA 14, SPLIT",
+        "gpsx": "16.436512",
+        "gpsy": "43.510659"
+      },
+      {
+        "name": "ATM 148",
+        "address": "ULICA KRALJA TOMISLAVA 1, DUGI RAT",
+        "gpsx": "16.64080662",
+        "gpsy": "43.44492918"
+      },
+      {
+        "name": "ATM 149",
+        "address": "GAT SVETOG DUJE 4, SPLIT",
+        "gpsx": "16.44231788",
+        "gpsy": "43.50296287"
+      },
+      {
+        "name": "ATM 150",
+        "address": "OB. KR.TOMISLAVA BB, KAŠTEL LUKŠIĆ",
+        "gpsx": "16.35657953",
+        "gpsy": "43.55232782"
+      },
+      {
+        "name": "ATM 151",
+        "address": "LUČICA HOTELI TUČEPI, TUČEPI",
+        "gpsx": "17.060909",
+        "gpsy": "43.262331"
+      },
+      {
+        "name": "ATM 152",
+        "address": "BRNIK B.B., SPLIT",
+        "gpsx": "16.498343",
+        "gpsy": "43.51041"
+      },
+      {
+        "name": "ATM 153",
+        "address": "FRA LUJE MARUNA 1, SKRADIN",
+        "gpsx": "15.92310487",
+        "gpsy": "43.81795896"
+      },
+      {
+        "name": "ATM 154",
+        "address": "TRG DOMOVINSKOG RATA 1, PIROVAC",
+        "gpsx": "15.66794527",
+        "gpsy": "43.81637039"
+      },
+      {
+        "name": "ATM 155",
+        "address": "GUNDULIĆEVA 22, SPLIT",
+        "gpsx": "16.43852294",
+        "gpsy": "43.51398806"
+      },
+      {
+        "name": "ATM 156",
+        "address": "PORAT B.B., SUTIVAN",
+        "gpsx": "16.478634",
+        "gpsy": "43.384466"
+      },
+      {
+        "name": "ATM 157",
+        "address": "V.VARIČAKA 12, SLOBOŠTINA, ZAGREB-SLOBOŠTINA",
+        "gpsx": "15.98823389",
+        "gpsy": "45.76585551"
+      },
+      {
+        "name": "ATM 158",
+        "address": "ILICA 288, ČRNOMEREC, ZAGREB",
+        "gpsx": "15.93097321",
+        "gpsy": "45.81434747"
+      },
+      {
+        "name": "ATM 159",
+        "address": "DR.F. TUĐMANA 6, STRMEC SAMOBORSKI",
+        "gpsx": "15.79356983",
+        "gpsy": "45.80418857"
+      },
+      {
+        "name": "ATM 160",
+        "address": "KUKULJEVIĆEVA 17, VARAŽDIN",
+        "gpsx": "16.34028414",
+        "gpsy": "46.3099172"
+      },
+      {
+        "name": "ATM 161",
+        "address": "TRG HRVATSKIH IVANOVACA 1, IVANEC",
+        "gpsx": "16.1246196",
+        "gpsy": "46.22409488"
+      },
+      {
+        "name": "ATM 162",
+        "address": "STJEPANA RADIĆA 19, OSIJEK",
+        "gpsx": "18.68306125",
+        "gpsy": "45.55598336"
+      },
+      {
+        "name": "ATM 163",
+        "address": "SV. IVANA KRSTITELJA 101, DARDA",
+        "gpsx": "18.68704518",
+        "gpsy": "45.62479998"
+      },
+      {
+        "name": "ATM 164",
+        "address": "ANTUNA GUSTAVA MATOŠA 2, TOVARNIK",
+        "gpsx": "19.15218531",
+        "gpsy": "45.16486585"
+      },
+      {
+        "name": "ATM 165",
+        "address": "ULICA FRANJE TUĐMANA 1, VUKOVAR",
+        "gpsx": "19.00286292",
+        "gpsy": "45.35089616"
+      },
+      {
+        "name": "ATM 166",
+        "address": "VINKOVAČKA ULICA 68 A, OSIJEK",
+        "gpsx": "18.6773018",
+        "gpsy": "45.5449148"
+      },
+      {
+        "name": "ATM 167",
+        "address": "VILKA ŠEFERA 2, RAVNICE, ZAGREB",
+        "gpsx": "16.02583959",
+        "gpsy": "45.81916979"
+      },
+      {
+        "name": "ATM 168",
+        "address": "JARUNSKA 2, ZAGREB",
+        "gpsx": "15.94064533",
+        "gpsy": "45.78426716"
+      },
+      {
+        "name": "ATM 169",
+        "address": "LJUBLJANSKA AVENIJA 108, ZAGREB-SUSEDGRAD",
+        "gpsx": "15.89289844",
+        "gpsy": "45.79761133"
+      },
+      {
+        "name": "ATM 170",
+        "address": "AVENIJA GOJKA ŠUŠKA 6,DUBRAVA, ZAGREB-DUBRAVA",
+        "gpsx": "16.035022",
+        "gpsy": "45.833879"
+      },
+      {
+        "name": "ATM 171",
+        "address": "NIKOLE TESLE 11, POREČ",
+        "gpsx": "13.59939565",
+        "gpsy": "45.23050976"
+      },
+      {
+        "name": "ATM 172",
+        "address": "25. RUJNA BR. 8, PAZIN",
+        "gpsx": "13.93608353",
+        "gpsy": "45.23993654"
+      },
+      {
+        "name": "ATM 173",
+        "address": "ŠIJANSKA CESTA 1, PULA",
+        "gpsx": "13.86501502",
+        "gpsy": "44.88170531"
+      },
+      {
+        "name": "ATM 174",
+        "address": "OBALA M.TITA B.B., RABAC",
+        "gpsx": "14.1564272",
+        "gpsy": "45.0787994"
+      },
+      {
+        "name": "ATM 175",
+        "address": "ZAGREBAČKA CESTA 1, KRAPINSKE TOPLICE",
+        "gpsx": "15.83849251",
+        "gpsy": "46.09178978"
+      },
+      {
+        "name": "ATM 176",
+        "address": "TRG SLOBODE 25, ZLATAR",
+        "gpsx": "16.07753705",
+        "gpsy": "46.09158615"
+      },
+      {
+        "name": "ATM 177",
+        "address": "TRG PAPE IVANA PAVLA II 34, MARIJA BISTRICA",
+        "gpsx": "16.11860417",
+        "gpsy": "46.00515436"
+      },
+      {
+        "name": "ATM 178",
+        "address": "ŠKOLSKA 3, SISAK",
+        "gpsx": "16.376989",
+        "gpsy": "45.464841"
+      },
+      {
+        "name": "ATM 179",
+        "address": "V. NAZORA 1, HRVATSKA KOSTAJNICA",
+        "gpsx": "16.54451991",
+        "gpsy": "45.22595576"
+      },
+      {
+        "name": "ATM 180",
+        "address": "PETRINJSKA B.B., SISAK",
+        "gpsx": "16.38169824",
+        "gpsy": "45.46540596"
+      },
+      {
+        "name": "ATM 181",
+        "address": "ŠKOLSKA BB, PODTUREN",
+        "gpsx": "16.548141",
+        "gpsy": "46.463038"
+      },
+      {
+        "name": "ATM 182",
+        "address": "TRG OSLOBOĐENJA 1, PRELOG",
+        "gpsx": "16.616167",
+        "gpsy": "46.337743"
+      },
+      {
+        "name": "ATM 183",
+        "address": "I.G.KOVAČIĆA 1, ČAKOVEC",
+        "gpsx": "16.436126",
+        "gpsy": "46.39327"
+      },
+      {
+        "name": "ATM 184",
+        "address": "UL.SLAV.GRANIČARA 12, NOVA GRADIŠKA",
+        "gpsx": "17.38236976",
+        "gpsy": "45.25990538"
+      },
+      {
+        "name": "ATM 185",
+        "address": "KAMENITA VRATA BB, POŽEGA",
+        "gpsx": "17.678214",
+        "gpsy": "45.334681"
+      },
+      {
+        "name": "ATM 186",
+        "address": "ZAGREBAČKA 27, DONJI ANDRIJEVCI",
+        "gpsx": "18.29312323",
+        "gpsy": "45.18661798"
+      },
+      {
+        "name": "ATM 187",
+        "address": "ZAGREBAČKA 130, SLAVONSKI BROD",
+        "gpsx": "17.99004797",
+        "gpsy": "45.16909135"
+      },
+      {
+        "name": "ATM 188",
+        "address": "TRG VELIKE GOSPE 2, BRODSKO VINOGORJE",
+        "gpsx": "17.992859",
+        "gpsy": "45.18857"
+      },
+      {
+        "name": "ATM 189",
+        "address": "ZAGREBAČKA 4, POPOVAČA",
+        "gpsx": "16.62719635",
+        "gpsy": "45.57221733"
+      },
+      {
+        "name": "ATM 190",
+        "address": "AVENIJA VUKOVAR 4, KUTINA",
+        "gpsx": "16.79356627",
+        "gpsy": "45.47148445"
+      },
+      {
+        "name": "ATM 191",
+        "address": "STJEPANA RADIĆA 119, SIRAČ",
+        "gpsx": "16.37179",
+        "gpsy": "45.454095"
+      },
+      {
+        "name": "ATM 192",
+        "address": "B.P. JASENICE-JUG, OBROVAC",
+        "gpsx": "15.56866724",
+        "gpsy": "44.23995313"
+      },
+      {
+        "name": "ATM 193",
+        "address": "I.G. KOVAČIĆA 4, DONJI LAPAC",
+        "gpsx": "15.96111677",
+        "gpsy": "44.5542918"
+      },
+      {
+        "name": "ATM 194",
+        "address": "ALOJZIJA STEPINCA 2, ĐURĐENOVAC",
+        "gpsx": "18.05098484",
+        "gpsy": "45.54214096"
+      },
+      {
+        "name": "ATM 195",
+        "address": "TRG F. ŠOVAGOVIĆA 1, VALPOVO",
+        "gpsx": "18.44602847",
+        "gpsy": "45.62559308"
+      },
+      {
+        "name": "ATM 196",
+        "address": "TRG SVETOG JURJA  BB, ĐURĐEVAC",
+        "gpsx": "17.067134",
+        "gpsy": "46.040695"
+      },
+      {
+        "name": "ATM 197",
+        "address": "MOKOŠICA, NA SKALI 2, MOKOŠICA",
+        "gpsx": "18.135896",
+        "gpsy": "42.671613"
+      },
+      {
+        "name": "ATM 198",
+        "address": "DOMOVINSKOG RATA 6, ZADAR",
+        "gpsx": "15.23800885",
+        "gpsy": "44.12153067"
+      },
+      {
+        "name": "ATM 199",
+        "address": "TRG HRVATSKE NEZAVISNOSTI 1A, PREKO",
+        "gpsx": "15.189972",
+        "gpsy": "44.094489"
+      },
+      {
+        "name": "ATM 200",
+        "address": "PRIMORSKA 8, VRSAR",
+        "gpsx": "13.60371355",
+        "gpsy": "45.14984692"
+      },
+      {
+        "name": "ATM 201",
+        "address": "DOMOVINSKOG RATA 93, SPLIT",
+        "gpsx": "16.47228705",
+        "gpsy": "43.51960189"
+      },
+      {
+        "name": "ATM 202",
+        "address": "PUT BRODARICE 6, SPLIT",
+        "gpsx": "16.44623064",
+        "gpsy": "43.51931182"
+      },
+      {
+        "name": "ATM 203",
+        "address": "MARŠALA TITA 136/4, OPATIJA",
+        "gpsx": "14.30481082",
+        "gpsy": "45.33364607"
+      },
+      {
+        "name": "ATM 204",
+        "address": "ŠKRLJEVO, KUKULJANOVO 345, RIJEKA",
+        "gpsx": "14.505576",
+        "gpsy": "45.337139"
+      },
+      {
+        "name": "ATM 205",
+        "address": "LOPAR BB, LOPAR",
+        "gpsx": "14.73052532",
+        "gpsy": "44.83044346"
+      },
+      {
+        "name": "ATM 206",
+        "address": "MATE LOVRAKA B.B., RIJEKA",
+        "gpsx": "14.365919",
+        "gpsy": "45.355455"
+      },
+      {
+        "name": "ATM 207",
+        "address": "DRAŽIČKIH BORACA 64, DRAŽICE",
+        "gpsx": "14.46623551",
+        "gpsy": "45.38904572"
+      },
+      {
+        "name": "ATM 208",
+        "address": "KARLOVAČKA 4, JOSIPDOL",
+        "gpsx": "15.2856888",
+        "gpsy": "45.18895085"
+      },
+      {
+        "name": "ATM 209",
+        "address": "DOBRI DOL 47,ZAGREB, ZAGREB",
+        "gpsx": "15.784607",
+        "gpsy": "45.827603"
+      },
+      {
+        "name": "ATM 210",
+        "address": "ZAGREBAČKA AVENIJA BB, ZAGREB",
+        "gpsx": "15.86584369",
+        "gpsy": "45.7970002"
+      },
+      {
+        "name": "ATM 211",
+        "address": "JARUN BB, ZAGREB",
+        "gpsx": "15.928193",
+        "gpsy": "45.78715"
+      },
+      {
+        "name": "ATM 212",
+        "address": "ILICA 5, OKTOGON, ZAGREB",
+        "gpsx": "15.974797",
+        "gpsy": "45.81229"
+      },
+      {
+        "name": "ATM 213",
+        "address": "TOMISLAVOVA 3, KRIŽEVCI",
+        "gpsx": "16.54738589",
+        "gpsy": "46.02155526"
+      },
+      {
+        "name": "ATM 214",
+        "address": "FROUDEOVA 5, SIGET, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.97233202",
+        "gpsy": "45.77653694"
+      },
+      {
+        "name": "ATM 215",
+        "address": "TRG P.PRERADOVIĆA 4, ZAGREB",
+        "gpsx": "15.97340216",
+        "gpsy": "45.81225204"
+      },
+      {
+        "name": "ATM 216",
+        "address": "ZRINSKOFRANKOPANSKA 12, ČAKOVEC",
+        "gpsx": "16.427972",
+        "gpsy": "46.389155"
+      },
+      {
+        "name": "ATM 217",
+        "address": "MANDRE, PRVA VERTIKALA B.B., KOLAN",
+        "gpsx": "14.923081",
+        "gpsy": "44.479238"
+      },
+      {
+        "name": "ATM 218",
+        "address": "GRADAC N/M, HOTEL LABINECA, GRADAC",
+        "gpsx": "17.344022",
+        "gpsy": "43.106435"
+      },
+      {
+        "name": "ATM 219",
+        "address": "OTOK OŠTARIJSKI 51D, OGULIN",
+        "gpsx": "15.249575",
+        "gpsy": "45.245128"
+      },
+      {
+        "name": "ATM 220",
+        "address": "ODRANSKA 8, ZAGREB",
+        "gpsx": "15.9688281",
+        "gpsy": "45.79075229"
+      },
+      {
+        "name": "ATM 221",
+        "address": "KRAŠIĆ 97, KRAŠIĆ",
+        "gpsx": "15.51704379",
+        "gpsy": "45.65381122"
+      },
+      {
+        "name": "ATM 222",
+        "address": "RADNIČKA 44, ZAGREB",
+        "gpsx": "16.00002019",
+        "gpsy": "45.80321145"
+      },
+      {
+        "name": "ATM 223",
+        "address": "HRVATSKE BRATSKE ZAJEDNICE 1, VELIKA GORICA",
+        "gpsx": "16.06740424",
+        "gpsy": "45.71833716"
+      },
+      {
+        "name": "ATM 224",
+        "address": "TRG PAVLA ŠTOOSA, POKUPSKO",
+        "gpsx": "15.992006",
+        "gpsy": "45.48562"
+      },
+      {
+        "name": "ATM 225",
+        "address": "HRVATSKIH BRANITELJA 1, DUGO SELO",
+        "gpsx": "16.23623729",
+        "gpsy": "45.80452823"
+      },
+      {
+        "name": "ATM 226",
+        "address": "BISTRANSKA 98, DONJA BISTRA",
+        "gpsx": "15.87601293",
+        "gpsy": "45.90633156"
+      },
+      {
+        "name": "ATM 227",
+        "address": "FOŠAL 1, OMIŠ",
+        "gpsx": "16.69227296",
+        "gpsy": "43.44427205"
+      },
+      {
+        "name": "ATM 228",
+        "address": "TRŽNI CENTAR STARIGRAD, STARIGRAD PAKLENICA",
+        "gpsx": "16.598067",
+        "gpsy": "43.183744"
+      },
+      {
+        "name": "ATM 229",
+        "address": "ANTE STARCEVICA 8, ŠIBENIK",
+        "gpsx": "15.89619684",
+        "gpsy": "43.73236781"
+      },
+      {
+        "name": "ATM 230",
+        "address": "MOLIŠKIH HRVATA 7, SPLIT",
+        "gpsx": "16.47584675",
+        "gpsy": "43.50771342"
+      },
+      {
+        "name": "ATM 231",
+        "address": "MAGISTRALA BB, VODICE",
+        "gpsx": "15.772153",
+        "gpsy": "43.767693"
+      },
+      {
+        "name": "ATM 232",
+        "address": "OBALA SV.NIKOLE 29, BAŠKA VODA",
+        "gpsx": "16.94822792",
+        "gpsy": "43.35824892"
+      },
+      {
+        "name": "ATM 233",
+        "address": "KRALJA TOMISLAVA 12, TRILJ",
+        "gpsx": "16.73097368",
+        "gpsy": "43.61714029"
+      },
+      {
+        "name": "ATM 234",
+        "address": "BANA JOSIPA JELAČIĆA 13 A, ŠIBENIK",
+        "gpsx": "15.89928463",
+        "gpsy": "43.73197765"
+      },
+      {
+        "name": "ATM 235",
+        "address": "PETRINA 10, KAŠTEL SUĆURAC",
+        "gpsx": "16.4259027",
+        "gpsy": "43.54716445"
+      },
+      {
+        "name": "ATM 236",
+        "address": "RIVA SV. MIKULE 38, KOMIŽA",
+        "gpsx": "16.089478",
+        "gpsy": "43.086943"
+      },
+      {
+        "name": "ATM 237",
+        "address": "KLINČA SELA, KARLOVAČKA B.B., JASTREBARSKO",
+        "gpsx": "15.743322",
+        "gpsy": "45.692182"
+      },
+      {
+        "name": "ATM 238",
+        "address": "PETROVARADINSKA B.B., ZAGREB",
+        "gpsx": "15.90474133",
+        "gpsy": "45.7892716"
+      },
+      {
+        "name": "ATM 239",
+        "address": "SAJMIŠNA BB, NOVI ZAGREB, ZAGREB-SLOBOŠTINA",
+        "gpsx": "16.005346",
+        "gpsy": "45.779579"
+      },
+      {
+        "name": "ATM 240",
+        "address": "KSAVERA Š. GJALSKOG 66, ZAPREŠIĆ",
+        "gpsx": "15.79786031",
+        "gpsy": "45.87072759"
+      },
+      {
+        "name": "ATM 241",
+        "address": "RADNIČKA 44, ZAGREB",
+        "gpsx": "16.00002019",
+        "gpsy": "45.80321145"
+      },
+      {
+        "name": "ATM 242",
+        "address": "ULICA KRALJA TOMISLAVA 12, ČAKOVEC",
+        "gpsx": "16.43732972",
+        "gpsy": "46.38972395"
+      },
+      {
+        "name": "ATM 243",
+        "address": "FLORIJANSKI TRG 18, KOPRIVNICA",
+        "gpsx": "16.82923001",
+        "gpsy": "46.16351809"
+      },
+      {
+        "name": "ATM 244",
+        "address": "ZMAJ J. JOVANOVIĆA 1, OSIJEK",
+        "gpsx": "18.71951403",
+        "gpsy": "45.55643536"
+      },
+      {
+        "name": "ATM 245",
+        "address": "J.J.STROSSMAYERA 14, VUKOVAR",
+        "gpsx": "19.00172186",
+        "gpsy": "45.35264616"
+      },
+      {
+        "name": "ATM 246",
+        "address": "TRG LJUDEVITA GAJA B.B., OSIJEK",
+        "gpsx": "18.6832309",
+        "gpsy": "45.55902948"
+      },
+      {
+        "name": "ATM 247",
+        "address": "J.J.STROSSMAYERA 7-9, ŽUPANJA",
+        "gpsx": "18.69442132",
+        "gpsy": "45.07412619"
+      },
+      {
+        "name": "ATM 248",
+        "address": "ULICA GRADA VUKOVARA 269/B, ZAGREB",
+        "gpsx": "16.00165131",
+        "gpsy": "45.80190299"
+      },
+      {
+        "name": "ATM 249",
+        "address": "ULICA 2. MARTA BB, LABIN",
+        "gpsx": "14.123654",
+        "gpsy": "45.091459"
+      },
+      {
+        "name": "ATM 250",
+        "address": "VIKTORA ŠIPEKA 30, DONJA STUBICA",
+        "gpsx": "15.9324184",
+        "gpsy": "45.97707563"
+      },
+      {
+        "name": "ATM 251",
+        "address": "ZAGORSKA 13, KONJŠČINA",
+        "gpsx": "16.176767",
+        "gpsy": "46.053458"
+      },
+      {
+        "name": "ATM 252",
+        "address": "JELAČIĆEV TRG 4, SELNICA",
+        "gpsx": "16.398103",
+        "gpsy": "46.493296"
+      },
+      {
+        "name": "ATM 253",
+        "address": "V. MORANDINIJA 37, ČAKOVEC",
+        "gpsx": "16.43795",
+        "gpsy": "46.38843"
+      },
+      {
+        "name": "ATM 254",
+        "address": "KRALJA TOMISLAVA 100, KOTORIBA",
+        "gpsx": "16.812137",
+        "gpsy": "46.35295"
+      },
+      {
+        "name": "ATM 255",
+        "address": "PILAREVA BB, SLAVONSKI BROD",
+        "gpsx": "18.012122",
+        "gpsy": "45.15975"
+      },
+      {
+        "name": "ATM 256",
+        "address": "ANDRIJE HEBRANGA 5, SLAVONSKI BROD",
+        "gpsx": "18.03281905",
+        "gpsy": "45.15831542"
+      },
+      {
+        "name": "ATM 257",
+        "address": "OSJEČKA 280, SLAVONSKI BROD",
+        "gpsx": "18.0486545",
+        "gpsy": "45.17408645"
+      },
+      {
+        "name": "ATM 258",
+        "address": "PILAREVA BB, SLAVONSKI BROD",
+        "gpsx": "18.012122",
+        "gpsy": "45.15975"
+      },
+      {
+        "name": "ATM 259",
+        "address": "STROSSMAYEROVA 3, NOVA GRADIŠKA",
+        "gpsx": "17.38559377",
+        "gpsy": "45.25969313"
+      },
+      {
+        "name": "ATM 260",
+        "address": "TRG SVETOG ANTUNA 5, VOLODER",
+        "gpsx": "16.6704497",
+        "gpsy": "45.55031608"
+      },
+      {
+        "name": "ATM 261",
+        "address": "TRG KRALJA P.SVAČIĆA 19, JASENOVAC",
+        "gpsx": "16.91020646",
+        "gpsy": "45.26871879"
+      },
+      {
+        "name": "ATM 262",
+        "address": "JULIJEV PARK 1, DARUVAR",
+        "gpsx": "17.22497027",
+        "gpsy": "45.59348558"
+      },
+      {
+        "name": "ATM 263",
+        "address": "HOTEL BELLEVUE, PLITVIČKA JEZERA",
+        "gpsx": "15.62288",
+        "gpsy": "44.882733"
+      },
+      {
+        "name": "ATM 264",
+        "address": "KRALJA ZVONIMIRA 6, OTOČAC",
+        "gpsx": "15.23306701",
+        "gpsy": "44.8688634"
+      },
+      {
+        "name": "ATM 265",
+        "address": "STJEPANA RADIĆA 45, PERUŠIĆ",
+        "gpsx": "15.383842",
+        "gpsy": "44.649964"
+      },
+      {
+        "name": "ATM 266",
+        "address": "TRG KRALJA TOMISLAVA 4, VIROVITICA",
+        "gpsx": "17.38621417",
+        "gpsy": "45.8346881"
+      },
+      {
+        "name": "ATM 267",
+        "address": "POMENA B.B., GOVEĐARI",
+        "gpsx": "17.342305",
+        "gpsy": "42.787748"
+      },
+      {
+        "name": "ATM 268",
+        "address": "OB.PAPE I.PAVLA II 44A, DUBROVNIK",
+        "gpsx": "18.084875",
+        "gpsy": "42.661046"
+      },
+      {
+        "name": "ATM 269",
+        "address": "STANKOVICI B.B., OREBIĆ",
+        "gpsx": "17.180901",
+        "gpsy": "42.975814"
+      },
+      {
+        "name": "ATM 270",
+        "address": "ZADARSKA 4, NIN",
+        "gpsx": "15.18104417",
+        "gpsy": "44.23960019"
+      },
+      {
+        "name": "ATM 271",
+        "address": "PETRČANE BB, PETRČANE",
+        "gpsx": "15.158601",
+        "gpsy": "44.17965"
+      },
+      {
+        "name": "ATM 272",
+        "address": "PUT MARTINOVIH 2/B (TRAJEKTNA LUKA), PREKO",
+        "gpsx": "15.185853",
+        "gpsy": "44.108297"
+      },
+      {
+        "name": "ATM 273",
+        "address": "OBALA KRALJA TOMISLAVA 2, SVETI FILIP I JAKOV",
+        "gpsx": "15.422058",
+        "gpsy": "43.963662"
+      },
+      {
+        "name": "ATM 274",
+        "address": "MARKANTUNA DE DOMINISA 1, RAB",
+        "gpsx": "14.757385",
+        "gpsy": "44.760143"
+      },
+      {
+        "name": "ATM 275",
+        "address": "PALIT 134, RAB",
+        "gpsx": "14.75943614",
+        "gpsy": "44.76360421"
+      },
+      {
+        "name": "ATM 276",
+        "address": "VIŠKOVO, ULICA MARINIĆI 11, VIŠKOVO",
+        "gpsx": "14.39250078",
+        "gpsy": "45.36179438"
+      },
+      {
+        "name": "ATM 277",
+        "address": "TRG I.MAŽURANIĆA 1, NOVI VINODOLSKI",
+        "gpsx": "14.7908957",
+        "gpsy": "45.1283292"
+      },
+      {
+        "name": "ATM 278",
+        "address": "TRG MARŠALA TITA 13, MATULJI",
+        "gpsx": "14.32296674",
+        "gpsy": "45.36356388"
+      },
+      {
+        "name": "ATM 279",
+        "address": "ŠETALIŠTE SV. BERNARDINA BB, KRK",
+        "gpsx": "14.5698227",
+        "gpsy": "45.02401995"
+      },
+      {
+        "name": "ATM 280",
+        "address": "ĐURE ŠPORERA 3, RIJEKA",
+        "gpsx": "14.44475619",
+        "gpsy": "45.32707499"
+      },
+      {
+        "name": "ATM 281",
+        "address": "KLJEPINA 6, PUNAT",
+        "gpsx": "14.62906749",
+        "gpsy": "45.02150758"
+      },
+      {
+        "name": "ATM 282",
+        "address": "SLAVKA KRAUTZEKA 15, RIJEKA",
+        "gpsx": "14.45808797",
+        "gpsy": "45.33113728"
+      },
+      {
+        "name": "ATM 283",
+        "address": "KARLOVAČKA B.B., LUČKO, ZAGREB",
+        "gpsx": "15.90161799",
+        "gpsy": "45.7590812"
+      },
+      {
+        "name": "ATM 284",
+        "address": "KNEZA MISLAVA 2, ZAGREB",
+        "gpsx": "15.9844549",
+        "gpsy": "45.80798538"
+      },
+      {
+        "name": "ATM 285",
+        "address": "ALEJA IVANA ŠIBLA BB, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.986834",
+        "gpsy": "45.778595"
+      },
+      {
+        "name": "ATM 286",
+        "address": "PAKOŠTANSKA 5, ZAGREB",
+        "gpsx": "15.92819335",
+        "gpsy": "45.78975078"
+      },
+      {
+        "name": "ATM 287",
+        "address": "ILICA 5, OKTOGON, ZAGREB",
+        "gpsx": "15.97492462",
+        "gpsy": "45.81294"
+      },
+      {
+        "name": "ATM 288",
+        "address": "PETRINJSKA 30, ZAGREB",
+        "gpsx": "15.98000878",
+        "gpsy": "45.80878291"
+      },
+      {
+        "name": "ATM 289",
+        "address": "ALEJA IVANA ŠIBLA BB, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.986834",
+        "gpsy": "45.778595"
+      },
+      {
+        "name": "ATM 290",
+        "address": "LJUDEVITA POSAVSKOG 5, SESVETE",
+        "gpsx": "16.10259246",
+        "gpsy": "45.82045684"
+      },
+      {
+        "name": "ATM 291",
+        "address": "CEBINI BB, ZAGREB",
+        "gpsx": "15.995503",
+        "gpsy": "45.747144"
+      },
+      {
+        "name": "ATM 292",
+        "address": "VARAŽDINSKA 131, SRAČINEC",
+        "gpsx": "16.27887636",
+        "gpsy": "46.3293195"
+      },
+      {
+        "name": "ATM 293",
+        "address": "MAGISTRATSKA 3, KRAPINA",
+        "gpsx": "15.86917644",
+        "gpsy": "46.16430031"
+      },
+      {
+        "name": "ATM 294",
+        "address": "T. GORIČANCA 1, ČAKOVEC",
+        "gpsx": "16.443154",
+        "gpsy": "46.379963"
+      },
+      {
+        "name": "ATM 295",
+        "address": "TRG POBJEDE 27, SLAVONSKI BROD",
+        "gpsx": "18.01269144",
+        "gpsy": "45.15646574"
+      },
+      {
+        "name": "ATM 296",
+        "address": "TRG KRALJA TOMISLAVA 14, SIBINJ",
+        "gpsx": "17.909088",
+        "gpsy": "45.18978"
+      },
+      {
+        "name": "ATM 297",
+        "address": "BANA JELAČIĆA BB, VALPOVO",
+        "gpsx": "18.416562",
+        "gpsy": "45.658898"
+      },
+      {
+        "name": "ATM 298",
+        "address": "VUKOVARSKA 22, DUBROVNIK",
+        "gpsx": "18.09257267",
+        "gpsy": "42.65146475"
+      },
+      {
+        "name": "ATM 299",
+        "address": "KRALJA ZVONIMIRA BB, METKOVIĆ",
+        "gpsx": "17.648538",
+        "gpsy": "43.052979"
+      },
+      {
+        "name": "ATM 300",
+        "address": "A.STARČEVIĆA 2, RIJEKA",
+        "gpsx": "14.44539884",
+        "gpsy": "45.3259799"
+      },
+      {
+        "name": "ATM 301",
+        "address": "TRG SVETOG JURJA 2, DUGA RESA",
+        "gpsx": "15.49948402",
+        "gpsy": "45.44990907"
+      },
+      {
+        "name": "ATM 302",
+        "address": "ZAGREBAČKA 26, SAMOBOR",
+        "gpsx": "15.71926156",
+        "gpsy": "45.80403952"
+      },
+      {
+        "name": "ATM 303",
+        "address": "SAVSKA 25, ZAGREB",
+        "gpsx": "15.96566334",
+        "gpsy": "45.80384539"
+      },
+      {
+        "name": "ATM 304",
+        "address": "ALEJA JAVORA BB, DUBRAVA, ZAGREB-DUBRAVA",
+        "gpsx": "16.06830937",
+        "gpsy": "45.82785489"
+      },
+      {
+        "name": "ATM 305",
+        "address": "TRG VOLOVČICA BB, ZAGREB",
+        "gpsx": "16.01657694",
+        "gpsy": "45.81055851"
+      },
+      {
+        "name": "ATM 306",
+        "address": "NASELJE KORENIKA B.B., BUZET",
+        "gpsx": "13.974211",
+        "gpsy": "45.409817"
+      },
+      {
+        "name": "ATM 307",
+        "address": "ULICA A.I S. RADIĆA 10, SISAK",
+        "gpsx": "16.37261228",
+        "gpsy": "45.4863289"
+      },
+      {
+        "name": "ATM 308",
+        "address": "RIMSKA 1, SISAK",
+        "gpsx": "16.370852",
+        "gpsy": "45.487877"
+      },
+      {
+        "name": "ATM 309",
+        "address": "STJEPANA RADIĆA 22, ČAKOVEC",
+        "gpsx": "16.445503",
+        "gpsy": "46.388467"
+      },
+      {
+        "name": "ATM 310",
+        "address": "MARŠALA TITA 19, ČAKOVEC",
+        "gpsx": "16.421192",
+        "gpsy": "46.40314"
+      },
+      {
+        "name": "ATM 311",
+        "address": "T.GORIČANCA 2, ČAKOVEC",
+        "gpsx": "16.44295",
+        "gpsy": "46.379445"
+      },
+      {
+        "name": "ATM 312",
+        "address": "J.ŠAJNOVIĆA BB, MURSKO SREDIŠĆE",
+        "gpsx": "16.42941",
+        "gpsy": "46.506294"
+      },
+      {
+        "name": "ATM 313",
+        "address": "GLAVNA 32, MALA SUBOTICA",
+        "gpsx": "16.529467",
+        "gpsy": "46.376455"
+      },
+      {
+        "name": "ATM 314",
+        "address": "J.J.STROSMAYERA 26, SLAVONSKI BROD",
+        "gpsx": "18.02400388",
+        "gpsy": "45.15321998"
+      },
+      {
+        "name": "ATM 315",
+        "address": "ANDRIJE ŠTAMPARA 40, SLAVONSKI BROD",
+        "gpsx": "18.02437512",
+        "gpsy": "45.15550123"
+      },
+      {
+        "name": "ATM 316",
+        "address": "KOLODVORSKA 26, KUTINA",
+        "gpsx": "16.77728336",
+        "gpsy": "45.48018347"
+      },
+      {
+        "name": "ATM 317",
+        "address": "TRG FRANJE TUĐMANA 2, KARLOBAG",
+        "gpsx": "15.07279564",
+        "gpsy": "44.5251842"
+      },
+      {
+        "name": "ATM 318",
+        "address": "CENTAR 34, LOVINAC",
+        "gpsx": "15.68682387",
+        "gpsy": "44.39203157"
+      },
+      {
+        "name": "ATM 319",
+        "address": "TRG SVETOG JOSIPA 2, SLATINA",
+        "gpsx": "17.70148087",
+        "gpsy": "45.70234049"
+      },
+      {
+        "name": "ATM 320",
+        "address": "S.H.GUTMANNA 3C, BELIŠĆE",
+        "gpsx": "18.40668984",
+        "gpsy": "45.68622966"
+      },
+      {
+        "name": "ATM 321",
+        "address": "TOMISLAVOVA 3, KRIŽEVCI",
+        "gpsx": "16.54738589",
+        "gpsy": "46.02155526"
+      },
+      {
+        "name": "ATM 322",
+        "address": "SAVSKA B.B., IVANIĆ-GRAD",
+        "gpsx": "16.387395",
+        "gpsy": "45.699012"
+      },
+      {
+        "name": "ATM 323",
+        "address": "MATIJE GUPCA 1, STARI MIKANOVCI",
+        "gpsx": "18.55539617",
+        "gpsy": "45.28475366"
+      },
+      {
+        "name": "ATM 324",
+        "address": "KRALJA PETRA SVAČIĆA 1C, OSIJEK",
+        "gpsx": "18.70542809",
+        "gpsy": "45.55671675"
+      },
+      {
+        "name": "ATM 325",
+        "address": "TRG KRALJA TOMISLAVA BB, VINKOVCI",
+        "gpsx": "18.803272",
+        "gpsy": "45.299788"
+      },
+      {
+        "name": "ATM 326",
+        "address": "TRG KR. TOMISLAVA 15, OPUZEN",
+        "gpsx": "17.56156",
+        "gpsy": "43.017074"
+      },
+      {
+        "name": "ATM 327",
+        "address": "VLADIMIRA NADZORA 31, PLOČE",
+        "gpsx": "17.43549772",
+        "gpsy": "43.05461367"
+      },
+      {
+        "name": "ATM 328",
+        "address": "OBALA STJEPANA RADIĆA B.B., KOMIN (DALMACIJA)",
+        "gpsx": "17.53634155",
+        "gpsy": "43.04131831"
+      },
+      {
+        "name": "ATM 329",
+        "address": "JADRANSKA CESTA 20, UMAG (UMAGO)",
+        "gpsx": "13.52512262",
+        "gpsy": "45.43965357"
+      },
+      {
+        "name": "ATM 330",
+        "address": "ŠKVERSKA 6, NOVIGRAD (CITTANOVA)",
+        "gpsx": "13.56038596",
+        "gpsy": "45.31715757"
+      },
+      {
+        "name": "ATM 331",
+        "address": "1. MAJA B.B., VODNJAN, VODNJAN (DIGNANO)",
+        "gpsx": "13.857193",
+        "gpsy": "44.962855"
+      },
+      {
+        "name": "ATM 332",
+        "address": "TRG ANTE STARČEVIĆA B.B., ZAGREB",
+        "gpsx": "15.977634",
+        "gpsy": "45.805361"
+      },
+      {
+        "name": "ATM 333",
+        "address": "RUĐERA BOŠKOVIĆA 9, SPLIT",
+        "gpsx": "16.46553456",
+        "gpsy": "43.50718491"
+      },
+      {
+        "name": "ATM 334",
+        "address": "OBALA ALOJZIJA STEPINCA 2, MARINA",
+        "gpsx": "16.11211019",
+        "gpsy": "43.51259501"
+      },
+      {
+        "name": "ATM 335",
+        "address": "MAJEROVICA B.B., HVAR",
+        "gpsx": "16.433592",
+        "gpsy": "43.17258"
+      },
+      {
+        "name": "ATM 336",
+        "address": "IVANA ZAJCA 6, RIJEKA",
+        "gpsx": "14.4448885",
+        "gpsy": "45.32475487"
+      },
+      {
+        "name": "ATM 337",
+        "address": "TRG BANA JELAČIĆA BB, KRK",
+        "gpsx": "14.57294887",
+        "gpsy": "45.02727361"
+      },
+      {
+        "name": "ATM 338",
+        "address": "OBALA 43, MALINSKA",
+        "gpsx": "14.52775344",
+        "gpsy": "45.12519397"
+      },
+      {
+        "name": "ATM 339",
+        "address": "OSJEČKA 71  (ŠKURINJE), RIJEKA",
+        "gpsx": "14.41850823",
+        "gpsy": "45.35098997"
+      },
+      {
+        "name": "ATM 340",
+        "address": "I.G.KOVAČIĆA 219, RAVNA GORA",
+        "gpsx": "14.93729",
+        "gpsy": "45.37364728"
+      },
+      {
+        "name": "ATM 341",
+        "address": "ULICA B.FRANKOPANA 5, OGULIN",
+        "gpsx": "15.22625017",
+        "gpsy": "45.26587366"
+      },
+      {
+        "name": "ATM 342",
+        "address": "TRG STJEPANA RADIĆA 2, PISAROVINA",
+        "gpsx": "15.859687",
+        "gpsy": "45.586443"
+      },
+      {
+        "name": "ATM 343",
+        "address": "NOVA ADRESA 2, MJESTO 2",
+        "gpsx": "15.98487003",
+        "gpsy": "45.81112963"
+      },
+      {
+        "name": "ATM 344",
+        "address": "PLESO BB, ZRAČNA LUKA -DO, VELIKA GORICA",
+        "gpsx": "16.060359",
+        "gpsy": "45.732314"
+      },
+      {
+        "name": "ATM 345",
+        "address": "SAVSKA 28, ZAGREB",
+        "gpsx": "15.96421017",
+        "gpsy": "45.80291569"
+      },
+      {
+        "name": "ATM 346",
+        "address": "TREŠNJEVAČKI TRG BB, ZAGREB",
+        "gpsx": "15.954315",
+        "gpsy": "45.800234"
+      },
+      {
+        "name": "ATM 347",
+        "address": "TRG D. DOMJANIĆA 4, SESVETE",
+        "gpsx": "16.11055904",
+        "gpsy": "45.82675522"
+      },
+      {
+        "name": "ATM 348",
+        "address": "BADALIĆEVA 21, ZAGREB",
+        "gpsx": "15.958983",
+        "gpsy": "45.80345"
+      },
+      {
+        "name": "ATM 349",
+        "address": "UL. GRADA VUKOVARA 33, ZAGREB",
+        "gpsx": "15.96364478",
+        "gpsy": "45.80025331"
+      },
+      {
+        "name": "ATM 350",
+        "address": "VELEBITSKA 68, SPLIT",
+        "gpsx": "16.462348",
+        "gpsy": "43.518213"
+      },
+      {
+        "name": "ATM 351",
+        "address": "OPTUJSKA 171, VARAŽDIN",
+        "gpsx": "16.30680026",
+        "gpsy": "46.3173098"
+      },
+      {
+        "name": "ATM 352",
+        "address": "TRG BANA JELAČIĆA 5, IVANKOVO",
+        "gpsx": "18.68403131",
+        "gpsy": "45.28794181"
+      },
+      {
+        "name": "ATM 353",
+        "address": "KAPUCINSKA 25, OSIJEK",
+        "gpsx": "18.67976024",
+        "gpsy": "45.56105258"
+      },
+      {
+        "name": "ATM 354",
+        "address": "HEINZELOVA 1, ZAGREB",
+        "gpsx": "15.9981423",
+        "gpsy": "45.81405157"
+      },
+      {
+        "name": "ATM 355",
+        "address": "MATE VLAŠIĆA 38, POREČ, POREČ",
+        "gpsx": "13.616971",
+        "gpsy": "45.23012"
+      },
+      {
+        "name": "ATM 356",
+        "address": "LJUDEVITA GAJA 4, TUHELJ",
+        "gpsx": "15.78384661",
+        "gpsy": "46.06606462"
+      },
+      {
+        "name": "ATM 357",
+        "address": "OSIJEČKA 2, VALPOVO",
+        "gpsx": "18.41850088",
+        "gpsy": "45.65751816"
+      },
+      {
+        "name": "ATM 358",
+        "address": "BRAĆE BROZIČEVIĆA 4, CRIKVENICA",
+        "gpsx": "14.6930835",
+        "gpsy": "45.17311187"
+      },
+      {
+        "name": "ATM 359",
+        "address": "TRG JOSIPA BROZA 5, KARLOVAC",
+        "gpsx": "15.54554986",
+        "gpsy": "45.48793371"
+      },
+      {
+        "name": "ATM 360",
+        "address": "GOSPODARSKA 5, DONJI STUPNIK, ZAGREB",
+        "gpsx": "15.879899",
+        "gpsy": "45.74827"
+      },
+      {
+        "name": "ATM 361",
+        "address": "SLAVONSKA AVENIJA 106, ZAGREB",
+        "gpsx": "16.10730131",
+        "gpsy": "45.80478533"
+      },
+      {
+        "name": "ATM 362",
+        "address": "PUT SOLINA 1A, BIOGRAD NA MORU",
+        "gpsx": "15.44480771",
+        "gpsy": "43.93758156"
+      },
+      {
+        "name": "ATM 363",
+        "address": "ZRINSKI TRG 3, KRALJEVICA",
+        "gpsx": "14.56865094",
+        "gpsy": "45.27405811"
+      },
+      {
+        "name": "ATM 364",
+        "address": "TRNSKO 29, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.96472724",
+        "gpsy": "45.77253888"
+      },
+      {
+        "name": "ATM 365",
+        "address": "SLAVONSKA AVENIJA 17, ZAGREB",
+        "gpsx": "16.08386829",
+        "gpsy": "45.80521178"
+      },
+      {
+        "name": "ATM 366",
+        "address": "VRBIK 33, ZAGREB",
+        "gpsx": "15.96680219",
+        "gpsy": "45.79487793"
+      },
+      {
+        "name": "ATM 367",
+        "address": "KRALJEVIĆEVA 24, ZAGREB",
+        "gpsx": "16.01055585",
+        "gpsy": "45.82052902"
+      },
+      {
+        "name": "ATM 368",
+        "address": "UL. 151.SAMOBORSKE BRIGADE HV 1, SAMOBOR",
+        "gpsx": "15.723495",
+        "gpsy": "45.8221"
+      },
+      {
+        "name": "ATM 369",
+        "address": "POIŠANSKA ULICA 80, SPLIT",
+        "gpsx": "16.457573",
+        "gpsy": "43.505071"
+      },
+      {
+        "name": "ATM 370",
+        "address": "SVETOG LOVRE BB, STOBREČ",
+        "gpsx": "16.524228",
+        "gpsy": "43.501875"
+      },
+      {
+        "name": "ATM 371",
+        "address": "A.STARČEVIĆA 2, KAŠTEL STARI",
+        "gpsx": "16.34631222",
+        "gpsy": "43.55082651"
+      },
+      {
+        "name": "ATM 372",
+        "address": "ZRAČNA LUKA SPLIT, SPLIT",
+        "gpsx": "16.300449",
+        "gpsy": "43.537567"
+      },
+      {
+        "name": "ATM 373",
+        "address": "DUBROVAČKA 21, SPLIT",
+        "gpsx": "16.45451812",
+        "gpsy": "43.51030287"
+      },
+      {
+        "name": "ATM 374",
+        "address": "RUDINA 12, BOL",
+        "gpsx": "16.65492532",
+        "gpsy": "43.26139727"
+      },
+      {
+        "name": "ATM 375",
+        "address": "DOMOVINSKOG RATA 2, SPLIT",
+        "gpsx": "16.44359486",
+        "gpsy": "43.51307677"
+      },
+      {
+        "name": "ATM 376",
+        "address": "MILNA BB, MILNA",
+        "gpsx": "16.44840651",
+        "gpsy": "43.32702189"
+      },
+      {
+        "name": "ATM 377",
+        "address": "M. BULJANA BB, SINJ",
+        "gpsx": "16.64108683",
+        "gpsy": "43.69899509"
+      },
+      {
+        "name": "ATM 378",
+        "address": "BRANIMIROVA OBALA 59, PODGORA",
+        "gpsx": "17.07629831",
+        "gpsy": "43.24148661"
+      },
+      {
+        "name": "ATM 379",
+        "address": "HVAR, TRG SVETOG STJEPANA B.B., HVAR",
+        "gpsx": "16.442235",
+        "gpsy": "43.172353"
+      },
+      {
+        "name": "ATM 380",
+        "address": "BOLNIČKA 89 A, G.STENJEVAC, ZAGREB-SUSEDGRAD",
+        "gpsx": "15.89028771",
+        "gpsy": "45.81665256"
+      },
+      {
+        "name": "ATM 381",
+        "address": "HRVOJA MACANOVIĆA 27, ZAGREB",
+        "gpsx": "15.93105268",
+        "gpsy": "45.78924704"
+      },
+      {
+        "name": "ATM 382",
+        "address": "ŠIBENSKA 1, VOLTINO, ZAGREB",
+        "gpsx": "15.92887485",
+        "gpsy": "45.80490055"
+      },
+      {
+        "name": "ATM 383",
+        "address": "STROSMAYEROVA 4, ČAKOVEC",
+        "gpsx": "16.43825981",
+        "gpsy": "46.3891176"
+      },
+      {
+        "name": "ATM 384",
+        "address": "TRG B.JELAČIĆA 14, KOPRIVNICA",
+        "gpsx": "16.83295521",
+        "gpsy": "46.16323437"
+      },
+      {
+        "name": "ATM 385",
+        "address": "JALKOVEČKA 77, VARAŽDIN",
+        "gpsx": "16.32827642",
+        "gpsy": "46.29703019"
+      },
+      {
+        "name": "ATM 386",
+        "address": "TRG ŽRTAVA DOMOV. RATA 1, ILOK",
+        "gpsx": "19.37761333",
+        "gpsy": "45.22255063"
+      },
+      {
+        "name": "ATM 387",
+        "address": "UL. KRALJA ZVONIMIRA 1, VINKOVCI",
+        "gpsx": "18.80520766",
+        "gpsy": "45.28899673"
+      },
+      {
+        "name": "ATM 388",
+        "address": "LAPOVAČKA 6, VINKOVCI",
+        "gpsx": "18.8014478",
+        "gpsy": "45.29486048"
+      },
+      {
+        "name": "ATM 389",
+        "address": "KAPUCINSKA 25, OSIJEK",
+        "gpsx": "18.67976024",
+        "gpsy": "45.56105258"
+      },
+      {
+        "name": "ATM 390",
+        "address": "A. STARČEVIĆA 28, GUNJA",
+        "gpsx": "18.82557803",
+        "gpsy": "44.89119297"
+      },
+      {
+        "name": "ATM 391",
+        "address": "ZAGREBAČKA 12, VELIKA GORICA",
+        "gpsx": "16.07345862",
+        "gpsy": "45.71490392"
+      },
+      {
+        "name": "ATM 392",
+        "address": "KAVER 109, ZAGREB",
+        "gpsx": "15.977114",
+        "gpsy": "45.83272"
+      },
+      {
+        "name": "ATM 393",
+        "address": "ULICA GRADA VUKOVARA 72, ZAGREB",
+        "gpsx": "15.97307344",
+        "gpsy": "45.79946115"
+      },
+      {
+        "name": "ATM 394",
+        "address": "HORVATOVAC 58, ZAGREB",
+        "gpsx": "15.99115085",
+        "gpsy": "45.82166449"
+      },
+      {
+        "name": "ATM 395",
+        "address": "AVENIJA DUBROVNIK 32, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.98818887",
+        "gpsy": "45.77732683"
+      },
+      {
+        "name": "ATM 396",
+        "address": "MATIJE GUPCA 67, ZABOK",
+        "gpsx": "15.90093634",
+        "gpsy": "46.02421711"
+      },
+      {
+        "name": "ATM 397",
+        "address": "ZAGREBAČKA 31A, LEKENIK",
+        "gpsx": "16.20577632",
+        "gpsy": "45.58849397"
+      },
+      {
+        "name": "ATM 398",
+        "address": "KRALJA TOMISLAVA 11, ČAKOVEC",
+        "gpsx": "16.438411",
+        "gpsy": "46.390014"
+      },
+      {
+        "name": "ATM 399",
+        "address": "MIHOVLJANSKA 48, ČAKOVEC",
+        "gpsx": "16.445975",
+        "gpsy": "46.395045"
+      },
+      {
+        "name": "ATM 400",
+        "address": "ČAKOVEČKA 7, ČAKOVEC",
+        "gpsx": "16.471639",
+        "gpsy": "46.365647"
+      },
+      {
+        "name": "ATM 401",
+        "address": "NIKOLE TESLE BB, OREHOVICA",
+        "gpsx": "16.506293",
+        "gpsy": "46.32875"
+      },
+      {
+        "name": "ATM 402",
+        "address": "DR. VINKA ŽGANCA 2, VRATIŠINEC",
+        "gpsx": "16.456103",
+        "gpsy": "46.476874"
+      },
+      {
+        "name": "ATM 403",
+        "address": "J.B.JELAČIĆA 5, MURSKO SREDIŠĆE",
+        "gpsx": "16.439763",
+        "gpsy": "46.513331"
+      },
+      {
+        "name": "ATM 404",
+        "address": "LUDBREŠKA B.B., DONJI KRALJEVEC",
+        "gpsx": "16.651154",
+        "gpsy": "46.378675"
+      },
+      {
+        "name": "ATM 405",
+        "address": "TRG SVETOG ANTE 34, PODVINJE",
+        "gpsx": "18.029285",
+        "gpsy": "45.18996355"
+      },
+      {
+        "name": "ATM 406",
+        "address": "TRG KRALJA TOMISLAVA 5, KUTINA",
+        "gpsx": "16.77695469",
+        "gpsy": "45.48257608"
+      },
+      {
+        "name": "ATM 407",
+        "address": "N.Š.ZRINSKOG 4, GRUBIŠNO POLJE",
+        "gpsx": "17.17349509",
+        "gpsy": "45.70175838"
+      },
+      {
+        "name": "ATM 408",
+        "address": "KOLODVORSKA 26, KUTINA",
+        "gpsx": "16.77728336",
+        "gpsy": "45.48018347"
+      },
+      {
+        "name": "ATM 409",
+        "address": "GOLIJA 10A, PAG",
+        "gpsx": "15.05372215",
+        "gpsy": "44.44570418"
+      },
+      {
+        "name": "ATM 410",
+        "address": "B.P. TIFON JASENICE-SJEVER, OBROVAC",
+        "gpsx": "15.56796626",
+        "gpsy": "44.24076069"
+      },
+      {
+        "name": "ATM 411",
+        "address": "SUNČANA 39, HOTEL TERMIA, BIZOVAC",
+        "gpsx": "18.45917673",
+        "gpsy": "45.58157915"
+      },
+      {
+        "name": "ATM 412",
+        "address": "OSJEČKA 2, VALPOVO",
+        "gpsx": "18.41850088",
+        "gpsy": "45.65751816"
+      },
+      {
+        "name": "ATM 413",
+        "address": "TRG SVETOG IVANA 1, KLOŠTAR IVANIĆ",
+        "gpsx": "16.41757035",
+        "gpsy": "45.73810591"
+      },
+      {
+        "name": "ATM 414",
+        "address": "FRANJEVAČKA 19, BJELOVAR",
+        "gpsx": "16.8468413",
+        "gpsy": "45.90424301"
+      },
+      {
+        "name": "ATM 415",
+        "address": "DOMOVINSKOG RATA 1, BOROVO NASELJE, VUKOVAR",
+        "gpsx": "18.95376013",
+        "gpsy": "45.37551594"
+      },
+      {
+        "name": "ATM 416",
+        "address": "TRG DR. F. TUĐMANA 5, ĐAKOVO",
+        "gpsx": "18.409889",
+        "gpsy": "45.310236"
+      },
+      {
+        "name": "ATM 417",
+        "address": "BRSALJE 9, DUBROVNIK",
+        "gpsx": "18.10527926",
+        "gpsy": "42.64208814"
+      },
+      {
+        "name": "ATM 418",
+        "address": "PLACA 12, DUBROVNIK",
+        "gpsx": "18.10965564",
+        "gpsy": "42.64127282"
+      },
+      {
+        "name": "ATM 419",
+        "address": "OBALA IVA KULJEVANA 12, LOPUD",
+        "gpsx": "17.94239272",
+        "gpsy": "42.69042296"
+      },
+      {
+        "name": "ATM 420",
+        "address": "JOSIPA KOSORA 4, DUBROVNIK",
+        "gpsx": "18.08290162",
+        "gpsy": "42.64844756"
+      },
+      {
+        "name": "ATM 421",
+        "address": "KOLODVORSKA 10, KOPRIVNICA",
+        "gpsx": "11",
+        "gpsy": "46.16494411"
+      },
+      {
+        "name": "ATM 422",
+        "address": "NOVA ADRESA, NOVO MJESTO",
+        "gpsx": "16",
+        "gpsy": "46"
+      },
+      {
+        "name": "ATM 423",
+        "address": "STILINOVIĆEVA 4, SVETA NEDJELJA",
+        "gpsx": "15.77602601",
+        "gpsy": "45.79721901"
+      },
+      {
+        "name": "ATM 424",
+        "address": "SARAJEVSKA ULICA B.B., ZAGREB-SLOBOŠTINA",
+        "gpsx": "16.004177",
+        "gpsy": "45.770326"
+      },
+      {
+        "name": "ATM 425",
+        "address": "HRVATSKIH VELIKANA 31, VRGORAC",
+        "gpsx": "17.36925737",
+        "gpsy": "43.20514801"
+      },
+      {
+        "name": "ATM 426",
+        "address": "JOSIPA BANA JELAČIĆA 26, ZADAR",
+        "gpsx": "15.24009456",
+        "gpsy": "44.1170149"
+      },
+      {
+        "name": "ATM 427",
+        "address": "ŠIROKA ULICA B.B., ZADAR",
+        "gpsx": "15.22554953",
+        "gpsy": "44.11543529"
+      },
+      {
+        "name": "ATM 428",
+        "address": "PETRA ZORANICA BB, BENKOVAC",
+        "gpsx": "15.613696",
+        "gpsy": "44.030577"
+      },
+      {
+        "name": "ATM 429",
+        "address": "A.RISMONDO 9, ROVINJ (ROVIGNO)",
+        "gpsx": "13.63661571",
+        "gpsy": "45.08170516"
+      },
+      {
+        "name": "ATM 430",
+        "address": "TRG DRAGUTINA DOMJANIĆA 4, SESVETE",
+        "gpsx": "16.11055904",
+        "gpsy": "45.82675522"
+      },
+      {
+        "name": "ATM 431",
+        "address": "ULICA DR. FRANJE TUĐMANA 10, SOLIN",
+        "gpsx": "16.49048515",
+        "gpsy": "43.538421"
+      },
+      {
+        "name": "ATM 432",
+        "address": "RADONJA BB, SELCA",
+        "gpsx": "16.86291582",
+        "gpsy": "43.28632947"
+      },
+      {
+        "name": "ATM 433",
+        "address": "ŠKRABLOVO 10, KRALJEVICA",
+        "gpsx": "14.58115782",
+        "gpsy": "45.25618669"
+      },
+      {
+        "name": "ATM 434",
+        "address": "ULICA FRANJE RAČKOGA 8, FUŽINE",
+        "gpsx": "14.71406686",
+        "gpsy": "45.30462528"
+      },
+      {
+        "name": "ATM 435",
+        "address": "S. KRAUTZEKA B.B., RIJEKA",
+        "gpsx": "14.463056",
+        "gpsy": "45.328077"
+      },
+      {
+        "name": "ATM 436",
+        "address": "JANKA POLIĆ KAMOVA 81/A, RIJEKA",
+        "gpsx": "14.46931325",
+        "gpsy": "45.31730454"
+      },
+      {
+        "name": "ATM 437",
+        "address": "KORZO 39, RIJEKA",
+        "gpsx": "14.439842",
+        "gpsy": "45.32744006"
+      },
+      {
+        "name": "ATM 438",
+        "address": "ĐURE ŠPORERA 3, RIJEKA",
+        "gpsx": "14.44475619",
+        "gpsy": "45.32707499"
+      },
+      {
+        "name": "ATM 439",
+        "address": "SUPILOVA ULICA 19, DELNICE",
+        "gpsx": "14.7996552",
+        "gpsy": "45.39405225"
+      },
+      {
+        "name": "ATM 440",
+        "address": "GUNDULIĆEVA 9, KARLOVAC",
+        "gpsx": "15.55232561",
+        "gpsy": "45.49508431"
+      },
+      {
+        "name": "ATM 441",
+        "address": "TURANJ 59C, KARLOVAC",
+        "gpsx": "15.570374",
+        "gpsy": "45.469762"
+      },
+      {
+        "name": "ATM 442",
+        "address": "ILICA 298A, KUSTOŠIJA, ZAGREB",
+        "gpsx": "15.92832397",
+        "gpsy": "45.81388231"
+      },
+      {
+        "name": "ATM 443",
+        "address": "MAKSIMIRSKA 108, ZAGREB",
+        "gpsx": "16.01058877",
+        "gpsy": "45.8180783"
+      },
+      {
+        "name": "ATM 444",
+        "address": "TRG K.TOMISLAVA 33, VELIKA GORICA",
+        "gpsx": "16.076771",
+        "gpsy": "45.71274911"
+      },
+      {
+        "name": "ATM 445",
+        "address": "SIGETJE 12, GAJNICE, ZAGREB-SUSEDGRAD",
+        "gpsx": "15.8742195",
+        "gpsy": "45.81529472"
+      },
+      {
+        "name": "ATM 446",
+        "address": "PETROVA 120, ZAGREB, ZAGREB",
+        "gpsx": "16.909332",
+        "gpsy": "45.291313"
+      },
+      {
+        "name": "ATM 447",
+        "address": "BRAĆE DOMANY 6, ZAGREB",
+        "gpsx": "15.93810553",
+        "gpsy": "45.78957254"
+      },
+      {
+        "name": "ATM 448",
+        "address": "LAURENČIĆEVA BB, ZAGREB",
+        "gpsx": "16.00480512",
+        "gpsy": "45.79317035"
+      },
+      {
+        "name": "ATM 449",
+        "address": "HRVOJA HRVATINIĆA BB, VINKOVCI",
+        "gpsx": "18.806038",
+        "gpsy": "45.275747"
+      },
+      {
+        "name": "ATM 450",
+        "address": "UL. KRALJA ZVONIMIRA 49, VINKOVCI",
+        "gpsx": "18.80778194",
+        "gpsy": "45.2940181"
+      },
+      {
+        "name": "ATM 451",
+        "address": "ULICA SERGIJEVACA 11, PULA",
+        "gpsx": "13.84319046",
+        "gpsy": "44.86928538"
+      },
+      {
+        "name": "ATM 452",
+        "address": "HUM NA SUTLI 157, HUM NA SUTLI",
+        "gpsx": "15.688562",
+        "gpsy": "46.217169"
+      },
+      {
+        "name": "ATM 453",
+        "address": "NIKOLE TESLE 21, PRELOG",
+        "gpsx": "16.61709",
+        "gpsy": "46.331884"
+      },
+      {
+        "name": "ATM 454",
+        "address": "V. MORANDINIJA 37, ČAKOVEC",
+        "gpsx": "16.43795",
+        "gpsy": "46.38843"
+      },
+      {
+        "name": "ATM 455",
+        "address": "PAPE IVANA PAVLA II 3, POŽEGA",
+        "gpsx": "17.67862583",
+        "gpsy": "45.33204139"
+      },
+      {
+        "name": "ATM 456",
+        "address": "FRANKOPANSKA 49, BRINJE",
+        "gpsx": "15.13135557",
+        "gpsy": "44.99971476"
+      },
+      {
+        "name": "ATM 457",
+        "address": "OBALA KRALJA ZVONIMIRA 4, SENJ",
+        "gpsx": "14.904596",
+        "gpsy": "44.989972"
+      },
+      {
+        "name": "ATM 458",
+        "address": "BABIN KUK, DUBROVNIK",
+        "gpsx": "18.065901",
+        "gpsy": "42.66202"
+      },
+      {
+        "name": "ATM 459",
+        "address": "ZRAČNA LUKA DUBROVNIK, ČILIPI",
+        "gpsx": "18.281679",
+        "gpsy": "42.548654"
+      },
+      {
+        "name": "ATM 460",
+        "address": "ILICA 191, ZAGREB",
+        "gpsx": "15.94518319",
+        "gpsy": "45.81273687"
+      },
+      {
+        "name": "ATM 461",
+        "address": "PODSUSEDSKA ALEJA 3, ZAGREB",
+        "gpsx": "15.83593014",
+        "gpsy": "45.81699662"
+      },
+      {
+        "name": "ATM 462",
+        "address": "SELČINSKA 14, SESVETE",
+        "gpsx": "16.11205638",
+        "gpsy": "45.83285507"
+      },
+      {
+        "name": "ATM 463",
+        "address": "SISAČKA CESTA 2, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.946054",
+        "gpsy": "45.758601"
+      },
+      {
+        "name": "ATM 464",
+        "address": "ŽEDNO-DRAGE BB, SUPETAR",
+        "gpsx": "16.556482",
+        "gpsy": "43.384341"
+      },
+      {
+        "name": "ATM 465",
+        "address": "ČETVRT Ž. DRAŽOJEVIĆA B.B., OMIŠ",
+        "gpsx": "16.68849758",
+        "gpsy": "43.44647012"
+      },
+      {
+        "name": "ATM 466",
+        "address": "OBALA BB, SUPETAR",
+        "gpsx": "16.554707",
+        "gpsy": "43.384423"
+      },
+      {
+        "name": "ATM 467",
+        "address": "PJACA BB, JELSA",
+        "gpsx": "16.692481",
+        "gpsy": "43.161648"
+      },
+      {
+        "name": "ATM 468",
+        "address": "DR. FRANJE TUĐMANA 20, PRIMOŠTEN",
+        "gpsx": "15.92393069",
+        "gpsy": "43.58909043"
+      },
+      {
+        "name": "ATM 469",
+        "address": "KAČIĆEV TRG BB, MAKARSKA",
+        "gpsx": "17.02067049",
+        "gpsy": "43.29360103"
+      },
+      {
+        "name": "ATM 470",
+        "address": "VRBOSKA BB, VRBOSKA",
+        "gpsx": "16.671667",
+        "gpsy": "43.180396"
+      },
+      {
+        "name": "ATM 471",
+        "address": "JADRANSKA ULICA 11, ROGOZNICA",
+        "gpsx": "15.96829087",
+        "gpsy": "43.53233506"
+      },
+      {
+        "name": "ATM 472",
+        "address": "CISTA PROVO BB, CISTA PROVO",
+        "gpsx": "16.952934",
+        "gpsy": "43.501126"
+      },
+      {
+        "name": "ATM 473",
+        "address": "FRA RAJMONDA RUDEŽA 1, IMOTSKI",
+        "gpsx": "17.22068278",
+        "gpsy": "43.44726601"
+      },
+      {
+        "name": "ATM 474",
+        "address": "NOVAČKA 62, DUBRAVA, ZAGREB-DUBRAVA",
+        "gpsx": "16.03824352",
+        "gpsy": "45.83738911"
+      },
+      {
+        "name": "ATM 475",
+        "address": "DUBEČKA B.B., DUBEC, ZAGREB",
+        "gpsx": "16.079103",
+        "gpsy": "45.827932"
+      },
+      {
+        "name": "ATM 476",
+        "address": "SELSKA 34, ZAGREB",
+        "gpsx": "15.9420613",
+        "gpsy": "45.80795452"
+      },
+      {
+        "name": "ATM 477",
+        "address": "TRG SV.TROJSTVA 10-12, LUDBREG",
+        "gpsx": "16.61790883",
+        "gpsy": "46.25012686"
+      },
+      {
+        "name": "ATM 478",
+        "address": "SENJSKA 48, VRHOVINE",
+        "gpsx": "15.42283647",
+        "gpsy": "44.85135426"
+      },
+      {
+        "name": "ATM 479",
+        "address": "PETRA PRERADOVIĆA 7, BJELOVAR",
+        "gpsx": "16.84178963",
+        "gpsy": "45.89664976"
+      },
+      {
+        "name": "ATM 480",
+        "address": "PETRA PRERADOVIĆA 7, BJELOVAR",
+        "gpsx": "16.84178963",
+        "gpsy": "45.89664976"
+      },
+      {
+        "name": "ATM 481",
+        "address": "ANTE STARČEVIĆA 2, LOVAS",
+        "gpsx": "19.16846796",
+        "gpsy": "45.22623932"
+      },
+      {
+        "name": "ATM 482",
+        "address": "ULICA REPUBLIKE 2, BELI MANASTIR",
+        "gpsx": "18.59899571",
+        "gpsy": "45.77107627"
+      },
+      {
+        "name": "ATM 483",
+        "address": "FALIČEVCI 7, PRIVLAKA",
+        "gpsx": "18.83802916",
+        "gpsy": "45.19495645"
+      },
+      {
+        "name": "ATM 484",
+        "address": "PUT OD CAVTATA BR 4, CAVTAT",
+        "gpsx": "18.2192687",
+        "gpsy": "42.58062481"
+      },
+      {
+        "name": "ATM 485",
+        "address": "FRANKOPANSKA 10, CAVTAT",
+        "gpsx": "18.21468807",
+        "gpsy": "42.57813278"
+      },
+      {
+        "name": "ATM 486",
+        "address": "OBALA STJEPANA RADIĆA 32, DUBROVNIK",
+        "gpsx": "18.087262",
+        "gpsy": "42.658056"
+      },
+      {
+        "name": "ATM 487",
+        "address": "TRG KRALJA TOMISLAVA 17, PLOČE",
+        "gpsx": "17.43419628",
+        "gpsy": "43.04876642"
+      },
+      {
+        "name": "ATM 488",
+        "address": "PUT MULA 1, VIR",
+        "gpsx": "15.08692431",
+        "gpsy": "44.29944776"
+      },
+      {
+        "name": "ATM 489",
+        "address": "OBALA PETRA LORINA BB, SALI",
+        "gpsx": "15.161262",
+        "gpsy": "43.936256"
+      },
+      {
+        "name": "ATM 490",
+        "address": "TKON B.B., TKON",
+        "gpsx": "15.418956",
+        "gpsy": "43.921892"
+      },
+      {
+        "name": "ATM 491",
+        "address": "BLEIBURŠKIH ŽRTAVA 18, ZADAR",
+        "gpsx": "15.25331816",
+        "gpsy": "44.11552482"
+      },
+      {
+        "name": "ATM 492",
+        "address": "DR. FRANJE TUĐMANA 30, KNIN",
+        "gpsx": "16.19731206",
+        "gpsy": "44.03614501"
+      },
+      {
+        "name": "ATM 493",
+        "address": "TRG SLOBODE 15, POREČ",
+        "gpsx": "15.596117",
+        "gpsy": "45.227385"
+      },
+      {
+        "name": "ATM 494",
+        "address": "CISCUTTIJEVA 11, PULA",
+        "gpsx": "13.84855851",
+        "gpsy": "44.86809768"
+      },
+      {
+        "name": "ATM 495",
+        "address": "KRALJA ZVONIMIRA  8, DUGO SELO",
+        "gpsx": "16.3002201",
+        "gpsy": "45.82530385"
+      },
+      {
+        "name": "ATM 496",
+        "address": "TRG KRALJA TOMISLAVA 8/A, DRNIŠ",
+        "gpsx": "16.15482386",
+        "gpsy": "43.86012272"
+      },
+      {
+        "name": "ATM 497",
+        "address": "FRANJE ČANDEKA 44, RIJEKA",
+        "gpsx": "14.40554795",
+        "gpsy": "45.34047839"
+      },
+      {
+        "name": "ATM 498",
+        "address": "FRANJE BELULOVIĆA BB, RIJEKA",
+        "gpsx": "14.479707",
+        "gpsy": "45.323186"
+      },
+      {
+        "name": "ATM 499",
+        "address": "POSL. CENTAR MALI PALIT, RAB",
+        "gpsx": "14.753566",
+        "gpsy": "44.766206"
+      },
+      {
+        "name": "ATM 500",
+        "address": "STARA CESTA 4, ŠILO",
+        "gpsx": "14.66277751",
+        "gpsy": "45.14766291"
+      },
+      {
+        "name": "ATM 501",
+        "address": "ULICA BRAĆE RADIĆA 1, SLUNJ",
+        "gpsx": "15.58566289",
+        "gpsy": "45.11511341"
+      },
+      {
+        "name": "ATM 502",
+        "address": "KARLOVAČKA 12, VOJNIĆ",
+        "gpsx": "15.69503412",
+        "gpsy": "45.32682483"
+      },
+      {
+        "name": "ATM 503",
+        "address": "RUDOLFA TACLIKA 8, KARLOVAC",
+        "gpsx": "15.54831099",
+        "gpsy": "45.48189965"
+      },
+      {
+        "name": "ATM 504",
+        "address": "TRG IVANA KUKULJEVIĆA 11/1, ZAGREB",
+        "gpsx": "15.89648566",
+        "gpsy": "45.80462781"
+      },
+      {
+        "name": "ATM 505",
+        "address": "VELIMIRA ŠKORPIKA 34, ZAGREB-SUSEDGRAD",
+        "gpsx": "15.8563889",
+        "gpsy": "45.79650967"
+      },
+      {
+        "name": "ATM 506",
+        "address": "AVENIJA V. HOLJEVCA 10, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.97938335",
+        "gpsy": "45.77870087"
+      },
+      {
+        "name": "ATM 507",
+        "address": "VUKOMEREC 23, ZAGREB",
+        "gpsx": "16.04059196",
+        "gpsy": "45.80745622"
+      },
+      {
+        "name": "ATM 508",
+        "address": "BABINA GREDA, TRG KRALJA TOMISLAVA 4, OSIJEK",
+        "gpsx": "18.535867",
+        "gpsy": "45.115601"
+      },
+      {
+        "name": "ATM 509",
+        "address": "JOSIPA ZORIĆA 19, DUGO SELO",
+        "gpsx": "16.23569",
+        "gpsy": "45.806008"
+      },
+      {
+        "name": "ATM 510",
+        "address": "ISTARSKA 5, OSIJEK",
+        "gpsx": "18.6932176",
+        "gpsy": "45.55462245"
+      },
+      {
+        "name": "ATM 511",
+        "address": "TRG DR. F. TUĐMANA 5, ĐAKOVO",
+        "gpsx": "18.409889",
+        "gpsy": "45.310236"
+      },
+      {
+        "name": "ATM 512",
+        "address": "TRG NARODNIH UČITELJA 19C, PETRINJA",
+        "gpsx": "16.27939486",
+        "gpsy": "45.4384134"
+      },
+      {
+        "name": "ATM 513",
+        "address": "MARŠALA TITA 1, NEDELIŠĆE",
+        "gpsx": "16.380433",
+        "gpsy": "46.376943"
+      },
+      {
+        "name": "ATM 514",
+        "address": "TRG A.STARČEVIĆA, BELIŠĆE",
+        "gpsx": "18.402572",
+        "gpsy": "45.685077"
+      },
+      {
+        "name": "ATM 515",
+        "address": "VLADIMIRA GORTANA 20, MALI LOŠINJ",
+        "gpsx": "14.4688838",
+        "gpsy": "44.53285776"
+      },
+      {
+        "name": "ATM 516",
+        "address": "ZAVRTNICA 17, ZAGREB",
+        "gpsx": "15.99986738",
+        "gpsy": "45.80730926"
+      },
+      {
+        "name": "ATM 517",
+        "address": "TRG IVANA KUKULJEVIĆA 11, ZAGREB",
+        "gpsx": "15.89648566",
+        "gpsy": "45.80462781"
+      },
+      {
+        "name": "ATM 518",
+        "address": "JANKOMIR 33, ZAGREB-SUSEDGRAD",
+        "gpsx": "15.88413788",
+        "gpsy": "45.79910565"
+      },
+      {
+        "name": "ATM 519",
+        "address": "VINKOVAČKA BB, TRŽNICA SUĆIDAR, SPLIT",
+        "gpsx": "16.45481319",
+        "gpsy": "43.51388969"
+      },
+      {
+        "name": "ATM 520",
+        "address": "KRALJA ZVONIMIRA 65A, SPLIT",
+        "gpsx": "16.44971713",
+        "gpsy": "43.50573227"
+      },
+      {
+        "name": "ATM 521",
+        "address": "STROSSMAYEROVO ŠETALIŠTE BB, JELSA",
+        "gpsx": "16.690323",
+        "gpsy": "43.162141"
+      },
+      {
+        "name": "ATM 522",
+        "address": "BUNARI 1, TRIBUNJ",
+        "gpsx": "15.74521589",
+        "gpsy": "43.75692968"
+      },
+      {
+        "name": "ATM 523",
+        "address": "GRAČANI 7, ZAGREB",
+        "gpsx": "15.97336697",
+        "gpsy": "45.85845568"
+      },
+      {
+        "name": "ATM 524",
+        "address": "ZAGREBAČKA 12, VARAŽDIN",
+        "gpsx": "16.33766347",
+        "gpsy": "46.30336801"
+      },
+      {
+        "name": "ATM 525",
+        "address": "TRG SLOBODE 1, VARAŽDINSKE TOPLICE",
+        "gpsx": "16.4204575",
+        "gpsy": "46.20948147"
+      },
+      {
+        "name": "ATM 526",
+        "address": "FRANA SUPILA 1, VARAŽDIN",
+        "gpsx": "16.34641126",
+        "gpsy": "46.30567955"
+      },
+      {
+        "name": "ATM 527",
+        "address": "BRAĆE RADIĆA 15, VARAŽDIN",
+        "gpsx": "16.33060147",
+        "gpsy": "46.30529182"
+      },
+      {
+        "name": "ATM 528",
+        "address": "J.J.STROSSMAYERA 7-9, ŽUPANJA",
+        "gpsx": "18.69442132",
+        "gpsy": "45.07412619"
+      },
+      {
+        "name": "ATM 529",
+        "address": "STROSSMAYEROVA 242, OSIJEK",
+        "gpsx": "18.64806585",
+        "gpsy": "45.56491186"
+      },
+      {
+        "name": "ATM 530",
+        "address": "AVENIJA M. DRŽIĆA BB, ZAGREB",
+        "gpsx": "15.993148",
+        "gpsy": "45.803693"
+      },
+      {
+        "name": "ATM 531",
+        "address": "SLAVENSKOGA 1, PREČKO, ZAGREB",
+        "gpsx": "15.899878",
+        "gpsy": "45.795903"
+      },
+      {
+        "name": "ATM 532",
+        "address": "SAVSKA 163, ZAGREB",
+        "gpsx": "15.95604216",
+        "gpsy": "45.7899933"
+      },
+      {
+        "name": "ATM 533",
+        "address": "VRAPČANSKA  3, ZAGREB",
+        "gpsx": "15.905735",
+        "gpsy": "45.813696"
+      },
+      {
+        "name": "ATM 534",
+        "address": "VLAŠKA 93B, ZAGREB",
+        "gpsx": "15.99142828",
+        "gpsy": "45.81399893"
+      },
+      {
+        "name": "ATM 535",
+        "address": "UL.S.BEREKA BB, TOPOLOVAC",
+        "gpsx": "16.441898",
+        "gpsy": "45.478399"
+      },
+      {
+        "name": "ATM 536",
+        "address": "ČAKOVEČKA 37 C, ČAKOVEC",
+        "gpsx": "16.417093",
+        "gpsy": "46.371392"
+      },
+      {
+        "name": "ATM 537",
+        "address": "STJEPANA RADIĆA 28, SVETA MARIJA",
+        "gpsx": "16.744564",
+        "gpsy": "46.332043"
+      },
+      {
+        "name": "ATM 538",
+        "address": "TRG SVETOG MARTINA 13, SVETI MARTIN NA MURI",
+        "gpsx": "16.363149",
+        "gpsy": "46.525239"
+      },
+      {
+        "name": "ATM 539",
+        "address": "JAKOVA GOTOVCA BB, ČAKOVEC",
+        "gpsx": "16.430815",
+        "gpsy": "46.394269"
+      },
+      {
+        "name": "ATM 540",
+        "address": "KRALJA TOMISLAVA 6, ČAKOVEC",
+        "gpsx": "16.434345",
+        "gpsy": "46.390561"
+      },
+      {
+        "name": "ATM 541",
+        "address": "OBRTNIČKA 1, ČAKOVEC",
+        "gpsx": "16.413724",
+        "gpsy": "46.38877"
+      },
+      {
+        "name": "ATM 542",
+        "address": "G.MIHALJEVEC 74, MACINEC",
+        "gpsx": "16.320984",
+        "gpsy": "46.429827"
+      },
+      {
+        "name": "ATM 543",
+        "address": "KATARINE ZRINSKI 1, DEKANOVEC",
+        "gpsx": "16.598314",
+        "gpsy": "46.430152"
+      },
+      {
+        "name": "ATM 544",
+        "address": "ŠTRIGOVA 22 A, ŠTRIGOVA",
+        "gpsx": "16.289002",
+        "gpsy": "46.500261"
+      },
+      {
+        "name": "ATM 545",
+        "address": "MATIJE GUPCA 1, STARO PETROVO SELO",
+        "gpsx": "17.5208293",
+        "gpsy": "45.22924608"
+      },
+      {
+        "name": "ATM 546",
+        "address": "TRG KRALJA TOMISLAVA 10, LIPIK",
+        "gpsx": "17.16172613",
+        "gpsy": "45.41486382"
+      },
+      {
+        "name": "ATM 547",
+        "address": "TRG STJEPANA RADIĆA B.B., UDBINA",
+        "gpsx": "15.768321",
+        "gpsy": "44.530963"
+      },
+      {
+        "name": "ATM 548",
+        "address": "OBROVAČKA BB, GRAČAC",
+        "gpsx": "15.85501",
+        "gpsy": "44.300418"
+      },
+      {
+        "name": "ATM 549",
+        "address": "TRG STJEPANA RADIĆA BB, GOSPIĆ",
+        "gpsx": "15.371266",
+        "gpsy": "44.547535"
+      },
+      {
+        "name": "ATM 550",
+        "address": "ČASNIKA IVANA ČANIĆA BAJE BB, LIČKI OSIK",
+        "gpsx": "15.42223",
+        "gpsy": "44.603791"
+      },
+      {
+        "name": "ATM 551",
+        "address": "KR. PETRA KREŠIMIRA IV 2, VALPOVO",
+        "gpsx": "18.41701829",
+        "gpsy": "45.66018781"
+      },
+      {
+        "name": "ATM 552",
+        "address": "ŠKOLSKA 2, IVANIĆ-GRAD",
+        "gpsx": "16.39109084",
+        "gpsy": "45.70524003"
+      },
+      {
+        "name": "ATM 553",
+        "address": "MILANA NOVAČIĆA 9, ČAZMA",
+        "gpsx": "16.61497818",
+        "gpsy": "45.74958266"
+      },
+      {
+        "name": "ATM 554",
+        "address": "ZAGREBAČKA 15, GRABERJE IVANIČKO",
+        "gpsx": "16.47322774",
+        "gpsy": "45.70963479"
+      },
+      {
+        "name": "ATM 555",
+        "address": "I.Z.DIJANOVEČKOG 3, KRIŽEVCI",
+        "gpsx": "16.54497157",
+        "gpsy": "46.02673734"
+      },
+      {
+        "name": "ATM 556",
+        "address": "LJUDEVITA GAJA 32, VIROVITICA",
+        "gpsx": "17.38612891",
+        "gpsy": "45.82919633"
+      },
+      {
+        "name": "ATM 557",
+        "address": "KRALJA ZVONIMIRA 2, BILJE",
+        "gpsx": "18.74356579",
+        "gpsy": "45.60365323"
+      },
+      {
+        "name": "ATM 558",
+        "address": "BORISA KIDRIČA 59/O, JAGODNJAK",
+        "gpsx": "18.58997353",
+        "gpsy": "45.70112943"
+      },
+      {
+        "name": "ATM 559",
+        "address": "ULICA SV. LEOPOLDA MANDIĆA 111A, OSIJEK",
+        "gpsx": "18.65166157",
+        "gpsy": "45.54249049"
+      },
+      {
+        "name": "ATM 560",
+        "address": "TRG KRALJA TOMISLAVA 6, NIJEMCI",
+        "gpsx": "19.03492835",
+        "gpsy": "45.14023034"
+      },
+      {
+        "name": "ATM 561",
+        "address": "TRG KRALJA TOMISLAVA 1, STON",
+        "gpsx": "17.695989",
+        "gpsy": "42.83736555"
+      },
+      {
+        "name": "ATM 562",
+        "address": "SPOMEN PARK S.FILIPOVIĆA BB, OPUZEN",
+        "gpsx": "17.55264985",
+        "gpsy": "43.01509141"
+      },
+      {
+        "name": "ATM 563",
+        "address": "ŠIROKA ULICA 8, ZADAR",
+        "gpsx": "15.22654107",
+        "gpsy": "44.11478428"
+      },
+      {
+        "name": "ATM 564",
+        "address": "DR. FRANJE TUĐMANA BB, ZADAR",
+        "gpsx": "15.235462",
+        "gpsy": "44.118263"
+      },
+      {
+        "name": "ATM 565",
+        "address": "M. RADEV B.B. (N.BOKANJAC), ZADAR",
+        "gpsx": "15.23957",
+        "gpsy": "44.150543"
+      },
+      {
+        "name": "ATM 566",
+        "address": "PRVOMAJSKA 4A, POREČ",
+        "gpsx": "13.60145656",
+        "gpsy": "45.23107955"
+      },
+      {
+        "name": "ATM 567",
+        "address": "BANOVČEVA 2, PULA",
+        "gpsx": "13.83919816",
+        "gpsy": "44.85618613"
+      },
+      {
+        "name": "ATM 568",
+        "address": "TRG ALOJZIJA STEPINCA BB, BRELA",
+        "gpsx": "16.92941",
+        "gpsy": "43.36738"
+      },
+      {
+        "name": "ATM 569",
+        "address": "DOMOVINSKOG RATA 29, SPLIT",
+        "gpsx": "16.44525846",
+        "gpsy": "43.51669487"
+      },
+      {
+        "name": "ATM 570",
+        "address": "KALVARIJA B.B., MALI LOŠINJ",
+        "gpsx": "14.471042",
+        "gpsy": "44.52639"
+      },
+      {
+        "name": "ATM 571",
+        "address": "BAJEČ BB, OMIŠALJ",
+        "gpsx": "14.5583494",
+        "gpsy": "45.2092849"
+      },
+      {
+        "name": "ATM 572",
+        "address": "LUNGOMARE SV. MIKULE 20, CRES",
+        "gpsx": "14.391759",
+        "gpsy": "44.96004"
+      },
+      {
+        "name": "ATM 573",
+        "address": "KRALJA ZVONIMIRA 114, BAŠKA",
+        "gpsx": "14.75215884",
+        "gpsy": "44.97023397"
+      },
+      {
+        "name": "ATM 574",
+        "address": "TRG FRANE PETRIĆA BB, CRES",
+        "gpsx": "14.408237",
+        "gpsy": "44.960729"
+      },
+      {
+        "name": "ATM 575",
+        "address": "DOMOBRANSKA 6, KARLOVAC",
+        "gpsx": "15.55118401",
+        "gpsy": "45.49049824"
+      },
+      {
+        "name": "ATM 576",
+        "address": "ULICA GRADA VUKOVARA 78, ZAGREB",
+        "gpsx": "15.97599944",
+        "gpsy": "45.79975089"
+      },
+      {
+        "name": "ATM 577",
+        "address": "TRG KR. TOMISLAVA 12, ZAGREB",
+        "gpsx": "15.97871656",
+        "gpsy": "45.80473444"
+      },
+      {
+        "name": "ATM 578",
+        "address": "HRIBAROV PR. 10, DUGAVE, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.99274707",
+        "gpsy": "45.76530174"
+      },
+      {
+        "name": "ATM 579",
+        "address": "I.B.MAŽURANIĆ 20, MALEŠNICA, ZAGREB",
+        "gpsx": "15.90212571",
+        "gpsy": "45.80660429"
+      },
+      {
+        "name": "ATM 580",
+        "address": "TINA UJEVIĆA 17, KNEŽIJA, ZAGREB",
+        "gpsx": "15.94955423",
+        "gpsy": "45.78977719"
+      },
+      {
+        "name": "ATM 581",
+        "address": "TOPLIČKA CESTA 16, DONJA STUBICA",
+        "gpsx": "15.96852709",
+        "gpsy": "45.98064671"
+      },
+      {
+        "name": "ATM 582",
+        "address": "RADIĆEVA 9, VRPOLJE",
+        "gpsx": "18.40408091",
+        "gpsy": "45.20891611"
+      },
+      {
+        "name": "ATM 583",
+        "address": "ULICA FRANJE TUĐMANA 14, STARIGRAD PAKLENICA",
+        "gpsx": "15.434203",
+        "gpsy": "44.298329"
+      },
+      {
+        "name": "ATM 584",
+        "address": "ULICA REPUBLIKE 79-85, PETRIJEVCI",
+        "gpsx": "18.53558064",
+        "gpsy": "45.61623398"
+      },
+      {
+        "name": "ATM 585",
+        "address": "KAPUCINSKA 25, OSIJEK",
+        "gpsx": "18.67976024",
+        "gpsy": "45.56105258"
+      },
+      {
+        "name": "ATM 586",
+        "address": "BRAĆE VIDULIĆA 38, MALI LOŠINJ",
+        "gpsx": "14.472063",
+        "gpsy": "44.530504"
+      },
+      {
+        "name": "ATM 587",
+        "address": "B.P. RAVNA GORA, AUTOCESTA RIJEKA-ZAGREB, RAVNA GORA",
+        "gpsx": "14.93710394",
+        "gpsy": "45.38221004"
+      },
+      {
+        "name": "ATM 588",
+        "address": "TRG BRAĆE RADIĆA BB, OZALJ",
+        "gpsx": "15.478234",
+        "gpsy": "45.612568"
+      },
+      {
+        "name": "ATM 589",
+        "address": "UL. KNEZA BRANIMIRA 181, ZAGREB",
+        "gpsx": "16.078957",
+        "gpsy": "45.82499"
+      },
+      {
+        "name": "ATM 590",
+        "address": "TRG B. J.JELAČIĆA 12, ZAGREB",
+        "gpsx": "15.97814143",
+        "gpsy": "45.81250938"
+      },
+      {
+        "name": "ATM 591",
+        "address": "ŠETALIŠTE 150. BRIGADE HV, ZAGREB",
+        "gpsx": "15.907431",
+        "gpsy": "45.797429"
+      },
+      {
+        "name": "ATM 592",
+        "address": "SLAVONSKA AV. 11D, ZAGREB",
+        "gpsx": "16.047935",
+        "gpsy": "45.803914"
+      },
+      {
+        "name": "ATM 593",
+        "address": "TRAJEKTNI TERMINAL SUĆURAJ, SUĆURAJ",
+        "gpsx": "17.189398",
+        "gpsy": "43.124667"
+      },
+      {
+        "name": "ATM 594",
+        "address": "TABLE 1, SPLIT",
+        "gpsx": "16.43555124",
+        "gpsy": "43.51655029"
+      },
+      {
+        "name": "ATM 595",
+        "address": "ISTOČNA GOMILICA 1A, TISNO",
+        "gpsx": "15.64577707",
+        "gpsy": "43.79912309"
+      },
+      {
+        "name": "ATM 596",
+        "address": "TRG BRAĆE RADIĆA 7, SPLIT",
+        "gpsx": "16.43857562",
+        "gpsy": "43.50827158"
+      },
+      {
+        "name": "ATM 597",
+        "address": "GLAVIČKA ULICA 6, SINJ",
+        "gpsx": "16.644436",
+        "gpsy": "43.701528"
+      },
+      {
+        "name": "ATM 598",
+        "address": "VLADIMIRA NAZORA 1, ŠIBENIK",
+        "gpsx": "15.89388695",
+        "gpsy": "43.73385961"
+      },
+      {
+        "name": "ATM 599",
+        "address": "HRVATSKIH ŽRTAVA 55, TROGIR",
+        "gpsx": "16.23242448",
+        "gpsy": "43.51864623"
+      },
+      {
+        "name": "ATM 600",
+        "address": "OBALA KNEZA DOMAGOJA 1, SPLIT",
+        "gpsx": "16.03631328",
+        "gpsy": "43.69149161"
+      },
+      {
+        "name": "ATM 601",
+        "address": "ROCA PAVE 8, VODICE",
+        "gpsx": "15.77790759",
+        "gpsy": "43.75943422"
+      },
+      {
+        "name": "ATM 602",
+        "address": "KRALJA TOMISLAVA 2, ŠIBENIK",
+        "gpsx": "15.89212675",
+        "gpsy": "43.73484014"
+      },
+      {
+        "name": "ATM 603",
+        "address": "DRAŽANAC 72, SPLIT",
+        "gpsx": "16.42704414",
+        "gpsy": "43.50346134"
+      },
+      {
+        "name": "ATM 604",
+        "address": "ALOJZIJA STEPINCA 1, TROGIR",
+        "gpsx": "16.24959064",
+        "gpsy": "43.51836215"
+      },
+      {
+        "name": "ATM 605",
+        "address": "TOMISLAVOV TRG 1, RIJEKA",
+        "gpsx": "14.43039724",
+        "gpsy": "45.33029509"
+      },
+      {
+        "name": "ATM 606",
+        "address": "JOHNA F. KENNEDYA 6, ZAGREB",
+        "gpsx": "16.011569",
+        "gpsy": "45.81601"
+      },
+      {
+        "name": "ATM 607",
+        "address": "ULICA GRADA WURGESA B.B., SAMOBOR",
+        "gpsx": "15.716285",
+        "gpsy": "45.8087"
+      },
+      {
+        "name": "ATM 608",
+        "address": "TRG S.RADIĆA 6, VELIKA GORICA",
+        "gpsx": "16.067464",
+        "gpsy": "45.711789"
+      },
+      {
+        "name": "ATM 609",
+        "address": "FRANJEVAČKI TRG 17, VARAŽDIN",
+        "gpsx": "16.33576805",
+        "gpsy": "46.30752799"
+      },
+      {
+        "name": "ATM 610",
+        "address": "PAVLEKA MIŠKINE 53, VARAŽDIN",
+        "gpsx": "16.35867331",
+        "gpsy": "46.30880162"
+      },
+      {
+        "name": "ATM 611",
+        "address": "KOLODVORSKA 101, KOPRIVNICA",
+        "gpsx": "15.81692301",
+        "gpsy": "46.16494411"
+      },
+      {
+        "name": "ATM 612",
+        "address": "ALEJA KRALJA ZVONIMIRA, VARAŽDIN",
+        "gpsx": "16.337013",
+        "gpsy": "46.303296"
+      },
+      {
+        "name": "ATM 613",
+        "address": "TRG L. RUŽIČKE 2, OSIJEK",
+        "gpsx": "18.68338695",
+        "gpsy": "45.55303992"
+      },
+      {
+        "name": "ATM 614",
+        "address": "LANIŠTE 32 - ARENA, ZAGREB",
+        "gpsx": "15.94412418",
+        "gpsy": "45.81249678"
+      },
+      {
+        "name": "ATM 615",
+        "address": "ILICA 335, KUSTOŠIJA, ZAGREB",
+        "gpsx": "15.92265321",
+        "gpsy": "45.81240957"
+      },
+      {
+        "name": "ATM 616",
+        "address": "BOŽIDARA MAGOVCA 47, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.99434591",
+        "gpsy": "45.77073355"
+      },
+      {
+        "name": "ATM 617",
+        "address": "MEŠTROVIĆEV TRG BB, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.99597871",
+        "gpsy": "45.7796407"
+      },
+      {
+        "name": "ATM 618",
+        "address": "FAŽANSKA 2, ROVINJ (ROVIGNO)",
+        "gpsx": "13.65705751",
+        "gpsy": "45.0794105"
+      },
+      {
+        "name": "ATM 619",
+        "address": "MIROGOJSKA 4, PODTUREN",
+        "gpsx": "16.503997",
+        "gpsy": "46.44735"
+      },
+      {
+        "name": "ATM 620",
+        "address": "V. MILJEVCA 2, NEDELIŠĆE",
+        "gpsx": "16.37804",
+        "gpsy": "46.375389"
+      },
+      {
+        "name": "ATM 621",
+        "address": "TRG POBJEDE 27, SLAVONSKI BROD",
+        "gpsx": "18.01269144",
+        "gpsy": "45.15646574"
+      },
+      {
+        "name": "ATM 622",
+        "address": "TRG POBJEDE 29, SLAVONSKI BROD",
+        "gpsx": "18.01260987",
+        "gpsy": "45.15608834"
+      },
+      {
+        "name": "ATM 623",
+        "address": "TRG HRVATSKOG PREPORODA 7, ORIOVAC",
+        "gpsx": "17.75511948",
+        "gpsy": "45.16598988"
+      },
+      {
+        "name": "ATM 624",
+        "address": "NASELJE SLAVONIJA II BR4, SLAVONSKI BROD",
+        "gpsx": "18.0208756",
+        "gpsy": "45.16215885"
+      },
+      {
+        "name": "ATM 625",
+        "address": "TRG KRALJA TOMISLAVA 17, DARUVAR",
+        "gpsx": "17.22435111",
+        "gpsy": "45.59238913"
+      },
+      {
+        "name": "ATM 626",
+        "address": "TRG DR. F. TUĐMANA 1, PAKRAC",
+        "gpsx": "17.19238726",
+        "gpsy": "45.43732503"
+      },
+      {
+        "name": "ATM 627",
+        "address": "ALOJZIJA STEPINCA 2, OKUČANI",
+        "gpsx": "17.19707039",
+        "gpsy": "45.26078566"
+      },
+      {
+        "name": "ATM 628",
+        "address": "ANTE STARČEVIĆA 8, LIPOVLJANI",
+        "gpsx": "16.89365968",
+        "gpsy": "45.39910338"
+      },
+      {
+        "name": "ATM 629",
+        "address": "OBRTNIČKA 3, VELIKA LUDINA",
+        "gpsx": "16.58661445",
+        "gpsy": "45.61066897"
+      },
+      {
+        "name": "ATM 630",
+        "address": "KOLODVORSKA 26, KUTINA",
+        "gpsx": "16.77728336",
+        "gpsy": "45.48018347"
+      },
+      {
+        "name": "ATM 631",
+        "address": "TRG DR.FRANJE TUĐMANA 5, NOVSKA",
+        "gpsx": "16.97596475",
+        "gpsy": "45.33997035"
+      },
+      {
+        "name": "ATM 632",
+        "address": "TRG KR. TOMISLAVA 7, VELIKI ZDENCI",
+        "gpsx": "17.1078095",
+        "gpsy": "45.67385502"
+      },
+      {
+        "name": "ATM 633",
+        "address": "HOTEL JEZERO, PLITVIČKA JEZERA",
+        "gpsx": "15.622977",
+        "gpsy": "14.882748"
+      },
+      {
+        "name": "ATM 634",
+        "address": "STJEPANA RADIĆA 94, POVLJANA",
+        "gpsx": "15.10577777",
+        "gpsy": "44.34851814"
+      },
+      {
+        "name": "ATM 635",
+        "address": "KVATERNIKOV TRG BB, ZAGREB",
+        "gpsx": "15.997877",
+        "gpsy": "45.814683"
+      },
+      {
+        "name": "ATM 636",
+        "address": "BARČEV TRG BB, UTRINE, ZAGREB-NOVI ZAGREB",
+        "gpsx": "15.99653878",
+        "gpsy": "45.77715238"
+      },
+      {
+        "name": "ATM 637",
+        "address": "OZALJSKA 148, ZAGREB",
+        "gpsx": "15.9388641",
+        "gpsy": "45.79745794"
+      },
+      {
+        "name": "ATM 638",
+        "address": "VELIMIRA ŠKORPIKA 34, ZAGREB",
+        "gpsx": "15.8563889",
+        "gpsy": "45.79650967"
+      },
+      {
+        "name": "ATM 639",
+        "address": "ULICA KRALJA TOMISLAVA 109 D, CRIKVENICA",
+        "gpsx": "14.682691",
+        "gpsy": "45.186241"
+      },
+      {
+        "name": "ATM 640",
+        "address": "TRG KRALJA TOMISLAVA BB, LEPOGLAVA",
+        "gpsx": "16.04672771",
+        "gpsy": "46.20917242"
+      },
+      {
+        "name": "ATM 641",
+        "address": "OPATIJSKA 26 F, OSIJEK",
+        "gpsx": "18.71922159",
+        "gpsy": "45.5431824"
+      },
+      {
+        "name": "ATM 642",
+        "address": "MATE VLAŠIĆA 20, POREČ",
+        "gpsx": "13.613992",
+        "gpsy": "45.230838"
+      },
+      {
+        "name": "ATM 643",
+        "address": "JOSIPA BAJKOVCA 2, ČAKOVEC",
+        "gpsx": "16.424303",
+        "gpsy": "46.376114"
+      },
+      {
+        "name": "ATM 644",
+        "address": "PLACA 12, DUBROVNIK",
+        "gpsx": "18.10965564",
+        "gpsy": "42.64127282"
+      }
+    ]

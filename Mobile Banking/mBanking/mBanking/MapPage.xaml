@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mBanking.MapPage">
+  <StackLayout x:Name="mapLayout" Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#B0BEC5">
+    <StackLayout x:Name="atmInfo" Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 7, 10, 7" >
+      <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand">
+        <Label x:Name="atmName" Text="ATM Name" VerticalOptions="EndAndExpand" HorizontalOptions="Start" />
+        <Label x:Name="atmAddress" Text="ATM Address" VerticalOptions="StartAndExpand" HorizontalOptions="Start"/>
+      </StackLayout>
+      <Image Source="navigation.png" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" HeightRequest="40" WidthRequest="40">
+        <StackLayout.GestureRecognizers>
+          <TapGestureRecognizer Tapped="onNavigationTapped"/>
+        </StackLayout.GestureRecognizers>
+      </Image>
+    </StackLayout>
+  </StackLayout>
+</ContentPage>

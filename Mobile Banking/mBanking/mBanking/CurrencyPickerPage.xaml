@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:FFImage="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="mBanking.CurrencyPickerPage">
+  <ContentPage.Content>
+    <ScrollView Orientation="Vertical">
+      <StackLayout x:Name="currencyLayout" Orientation="Vertical" Spacing="5" Padding="15, 15, 15, 15" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#B0BEC5">
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

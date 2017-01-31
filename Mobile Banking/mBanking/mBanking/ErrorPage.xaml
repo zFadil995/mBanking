@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mBanking.ErrorPage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"  BackgroundColor="#B0BEC5">
+      <Image Source="nosignal.png" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand"/>
+      <Label Text="No Internet Connection" FontSize="40" TextColor="#424242"  VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" />
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

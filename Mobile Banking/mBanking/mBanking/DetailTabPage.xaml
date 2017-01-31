@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mBanking.DetailTabPage">
+  <ContentPage.Content>
+      <Grid VerticalOptions="Fill" HorizontalOptions="Fill" BackgroundColor="#B0BEC5">
+        <ScrollView x:Name="detailsTabScroll" Orientation="Vertical"  Grid.Row="0" Grid.Column="0">
+          <StackLayout x:Name="detailsInfoLayout" Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="Fill" BackgroundColor="#B0BEC5">
+            <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Fill" Spacing="2" HeightRequest="50" Padding="10, 5, 10, 5"/>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Valid to" TextColor="#424242" FontSize="20"/>
+              <Label Text="21 Sep 2018" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="New overdraft amount" TextColor="#424242" FontSize="20"/>
+              <Label Text="3.000 KM" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="New overdraft amount initial period" TextColor="#424242" FontSize="20"/>
+              <Label Text="6 months" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Interest on allowed overdraft" TextColor="#424242" FontSize="20"/>
+              <Label Text="3.75%" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Penalty interest rate" TextColor="#424242" FontSize="20"/>
+              <Label Text="7.00%" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <Label Text="Installment repayment" FontSize="20" TextColor="#4CAF50" Margin="7, 0, 0, 0"/>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Authorisation amount" TextColor="#424242" FontSize="20"/>
+              <Label Text="0,00 KM" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Authorisation end date" TextColor="#424242" FontSize="20"/>
+              <Label Text="01 Jan 2000" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Valid to" TextColor="#424242" FontSize="20"/>
+              <Label Text="21 Sep 2018" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="New overdraft amount" TextColor="#424242" FontSize="20"/>
+              <Label Text="3.000 KM" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="New overdraft amount initial period" TextColor="#424242" FontSize="20"/>
+              <Label Text="6 months" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Interest on allowed overdraft" TextColor="#424242" FontSize="20"/>
+              <Label Text="3.75%" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Penalty interest rate" TextColor="#424242" FontSize="20"/>
+              <Label Text="7.00%" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <Label Text="Installment repayment" FontSize="20" TextColor="#4CAF50" Margin="7, 0, 0, 0"/>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Authorisation amount" TextColor="#424242" FontSize="20"/>
+              <Label Text="0,00 KM" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Authorisation end date" TextColor="#424242" FontSize="20"/>
+              <Label Text="01 Jan 2000" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Valid to" TextColor="#424242" FontSize="20"/>
+              <Label Text="21 Sep 2018" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="New overdraft amount" TextColor="#424242" FontSize="20"/>
+              <Label Text="3.000 KM" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="New overdraft amount initial period" TextColor="#424242" FontSize="20"/>
+              <Label Text="6 months" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Interest on allowed overdraft" TextColor="#424242" FontSize="20"/>
+              <Label Text="3.75%" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Penalty interest rate" TextColor="#424242" FontSize="20"/>
+              <Label Text="7.00%" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <Label Text="Installment repayment" FontSize="20" TextColor="#4CAF50" Margin="7, 0, 0, 0"/>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Authorisation amount" TextColor="#424242" FontSize="20"/>
+              <Label Text="0,00 KM" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+            <StackLayout Orientation="Vertical" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Padding="10, 7, 10, 7">
+              <Label Text="Authorisation end date" TextColor="#424242" FontSize="20"/>
+              <Label Text="01 Jan 2000" TextColor="#616161" FontSize="15" Margin="5, 0, 0, 0"/>
+              <Image BackgroundColor="#616161" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="10, 2, 0, 0"/>
+            </StackLayout>
+          </StackLayout>
+        </ScrollView>
+        <StackLayout x:Name="detailsToolbar" Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Fill" Spacing="2" HeightRequest="50" Padding="10, 5, 10, 5" BackgroundColor="#455A64"  Grid.Row="0" Grid.Column="0">
+          <Image x:Name="accountImage" Source="accounticon.png" HeightRequest="40" WidthRequest="40" VerticalOptions="Center" HorizontalOptions="Start"/>
+          <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Fill" Padding="10, 0, 0, 0" Spacing="0">
+            <Label x:Name="accountWidgetName" Text="Account Nickname" FontSize="20" TextColor="#FFFFFF"  VerticalOptions="End"/>
+            <Label x:Name="accountWidgetNumber" Text="0000 0000 0000 0000" FontSize="15" TextColor="#F5F5F5" VerticalOptions="Start"/>
+          </StackLayout>
+          <Image x:Name="detailSettings" Source="settings.png" HorizontalOptions="EndAndExpand" HeightRequest="25" WidthRequest="25" VerticalOptions="Start" Margin="5, 5, 5, 5">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onAccountSettingsTapped"/>
+            </StackLayout.GestureRecognizers>
+          </Image>
+        </StackLayout>
+      </Grid>
+  </ContentPage.Content>
+</ContentPage>

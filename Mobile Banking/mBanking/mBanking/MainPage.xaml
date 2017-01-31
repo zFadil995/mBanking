@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:FFImage="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="mBanking.MainPage">
+  <ContentPage.Content>
+    <ScrollView Orientation="Vertical">
+      <StackLayout x:Name="widgetsLayout" Orientation="Vertical" Padding="15, 5, 15, 10" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#B0BEC5">
+        <StackLayout x:Name="accountWidget" Orientation="Vertical" Padding="10, 10, 10, 10" Margin="0, 15, 0, 0" VerticalOptions="Start" HorizontalOptions="Fill" Spacing="2" BackgroundColor="#FFFFFF">
+          <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onAccountTapped"/>
+          </StackLayout.GestureRecognizers>
+          <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Fill" Spacing="2">
+            <FFImage:CachedImage x:Name="accountWidgetImage" Source="accounticon.png" HeightRequest="40" WidthRequest="40" VerticalOptions="Center" HorizontalOptions="Start"/>
+            <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Fill" Padding="10, 0, 0, 0" Spacing="0">
+              <Label x:Name="accountWidgetName" Text="Account Nickname" FontSize="20" TextColor="#424242"  VerticalOptions="End"/>
+              <Label x:Name="accountWidgetNumber" Text="0000 0000 0000 0000" FontSize="15" TextColor="#9E9E9E" VerticalOptions="Start"/>
+            </StackLayout>
+            <Image Source="settings.png" HorizontalOptions="EndAndExpand" HeightRequest="20" WidthRequest="20" VerticalOptions="Start" Margin="5, 5, 5, 5">
+              <StackLayout.GestureRecognizers>
+                <TapGestureRecognizer Tapped="onAccountSettingsTapped"/>
+              </StackLayout.GestureRecognizers>
+            </Image>
+          </StackLayout>
+          <Image BackgroundColor="#000000" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="60, 5, 0, 0"/>
+          <Label x:Name="accountWidgetBalance" Text="0 KM" FontSize="25" TextColor="#000000" HorizontalTextAlignment="End" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="0, 0, 0, 0"/>
+        </StackLayout>
+        <StackLayout x:Name="exchangeWidget" Orientation="Vertical" Padding="10, 10, 10, 10" Margin="0, 15, 0, 0" VerticalOptions="Start" HorizontalOptions="Fill" Spacing="2" BackgroundColor="#FFFFFF">
+          <StackLayout Orientation="Horizontal" VerticalOptions="StartAndExpand" HorizontalOptions="Fill" Margin ="0, 0, 0, 5" HeightRequest="30">
+            <Label x:Name="exchangeWidgetTitle" Text="Exchange rates for CUR" TextColor="#000000" FontSize="20" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+            <Image Source="settings.png" HorizontalOptions="EndAndExpand" HeightRequest="20" WidthRequest="20" VerticalOptions="StartAndExpand" Margin="2, 2, 2, 2">
+              <Image.GestureRecognizers>
+                <TapGestureRecognizer Tapped="onExchangeSettingsTapped"/>
+              </Image.GestureRecognizers>
+            </Image>
+          </StackLayout>
+          <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand" HorizontalOptions="Fill" Spacing="2" Margin="10, 0, 10, 0">
+            <Grid VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+              </Grid.ColumnDefinitions>
+              <Label x:Name="exchangeWidgetDate" Text="01 January 2000" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="StartAndExpand" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3"/>
+              <Label x:Name="exchangeWidgetBuy" Text="Buy" TextColor="#424242" FontSize="15" HorizontalOptions="EndAndExpand" Grid.Row="0" Grid.Column="3"/>
+              <Label x:Name="exchangeWidgetSell" Text="Sell" TextColor="#424242" FontSize="15" HorizontalOptions="EndAndExpand" Grid.Row="0" Grid.Column="4"/>
+              <FFImage:CachedImage x:Name="exchangeWidgetOneImage" Source="creditcard.png" HeightRequest="25" WidthRequest="35" VerticalOptions="Center" HorizontalOptions="Start" Grid.Row="1" Grid.Column="0"/>
+              <Label x:Name="exchangeWidgetOneName" Text="CUR" TextColor="#424242" FontSize="20" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="1" Grid.Column="1"/>
+              <Label Text="1" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="40" Grid.Row="1" Grid.Column="2"/>
+              <Label x:Name="exchangeWidgetOneBuy" Text="0.000000" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center" Grid.Row="1" Grid.Column="3"/>
+              <Label x:Name="exchangeWidgetOneSell" Text="0.000000" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center" Grid.Row="1" Grid.Column="4"/>
+              <FFImage:CachedImage x:Name="exchangeWidgetTwoImage" Source="creditcard.png" HeightRequest="25" WidthRequest="35" VerticalOptions="Center" HorizontalOptions="Start" Grid.Row="2" Grid.Column="0"/>
+              <Label x:Name="exchangeWidgetTwoName" Text="CUR" TextColor="#424242" FontSize="20" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="2" Grid.Column="1"/>
+              <Label Text="1" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="40" Grid.Row="2" Grid.Column="2"/>
+              <Label x:Name="exchangeWidgetTwoBuy" Text="0.000000" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center" Grid.Row="2" Grid.Column="3"/>
+              <Label x:Name="exchangeWidgetTwoSell" Text="0.000000" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center" Grid.Row="2" Grid.Column="4"/>
+              <FFImage:CachedImage x:Name="exchangeWidgetThreeImage" Source="creditcard.png" HeightRequest="25" WidthRequest="35" VerticalOptions="Center" HorizontalOptions="Start" Grid.Row="3" Grid.Column="0"/>
+              <Label x:Name="exchangeWidgetThreeName" Text="CUR" TextColor="#424242" FontSize="20" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="3" Grid.Column="1"/>
+              <Label Text="1" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="Center" VerticalOptions="Center" WidthRequest="40" Grid.Row="3" Grid.Column="2"/>
+              <Label x:Name="exchangeWidgetThreeBuy" Text="0.000000" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center" Grid.Row="3" Grid.Column="3"/>
+              <Label x:Name="exchangeWidgetThreeSell" Text="0.000000" TextColor="#9E9E9E" FontSize="15" HorizontalOptions="EndAndExpand" VerticalOptions="Center" Grid.Row="3" Grid.Column="4"/>
+            </Grid>
+          </StackLayout>
+        </StackLayout>
+        <StackLayout x:Name="atmWidget" Orientation="Vertical" Padding="10, 10, 10, 10" Margin="0, 15, 0, 0" VerticalOptions="Start" HorizontalOptions="Fill" Spacing="2" BackgroundColor="#FFFFFF">
+          <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onATMTapped"/>
+          </StackLayout.GestureRecognizers>
+          <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="Fill" Spacing="2">
+            <FFImage:CachedImage x:Name="atmWidgetImage" Source="atm.png" HeightRequest="40" WidthRequest="40" VerticalOptions="Center"/>
+            <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="Fill" Padding="10, 0, 0, 0" Spacing="0">
+              <Label x:Name="atmWidgetName" Text="Looking for location..." FontSize="20" TextColor="#424242"  VerticalOptions="End"/>
+              <Label x:Name="atmWidgetAddress" Text="   " FontSize="15" TextColor="#9E9E9E" VerticalOptions="Start" />
+            </StackLayout>
+          </StackLayout>
+          <Image BackgroundColor="#000000" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="60, 5, 0, 0"/>
+          <Label x:Name="atmWidgetDistance" Text="Distance: 0 m" FontSize="25" TextColor="#000000" HorizontalTextAlignment="End" VerticalOptions="Start" HorizontalOptions="EndAndExpand" Margin="0, 0, 0, 0"/>
+        </StackLayout>
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

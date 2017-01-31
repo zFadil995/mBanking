@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:FFImage="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="mBanking.ImageChoicePage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical" Padding="10, 10, 10, 10" VerticalOptions="FillAndExpand" HorizontalOptions="Center" BackgroundColor="#B0BEC5">
+      <StackLayout x:Name="imagesView" Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Margin="15, 15, 15, 15" BackgroundColor="#FFFFFF">
+        <Grid x:Name="accountImagesGrid" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" >
+          <FFImage:CachedImage Source="male.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="0">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onMaleImageTapped"/>
+            </StackLayout.GestureRecognizers>
+          </FFImage:CachedImage>
+          <FFImage:CachedImage Source="female.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="1">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onFemaleImageTapped"/>
+            </StackLayout.GestureRecognizers>
+          </FFImage:CachedImage>
+          <FFImage:CachedImage Source="banker.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="2">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onBankerImageTapped"/>
+            </StackLayout.GestureRecognizers>
+          </FFImage:CachedImage>
+          <FFImage:CachedImage Source="saver.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="3">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onSaverImageTapped"/>
+            </StackLayout.GestureRecognizers>
+          </FFImage:CachedImage>
+        </Grid>
+      </StackLayout>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:FFImage="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="mBanking.ExchangesPage">
+  <ContentPage.Content>
+    <ScrollView Orientation="Vertical">
+      <StackLayout Orientation="Vertical" Padding="15, 15, 15, 15" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#B0BEC5">
+        <Label  Text="Source Currency" FontSize="15" TextColor="#616161" VerticalOptions="Start"/>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="#ECEFF1" Padding="7, 7, 7, 7">
+          <FFImage:CachedImage x:Name="currencySourceImage" Source="creditcard.png" HeightRequest="25" WidthRequest="35" VerticalOptions="CenterAndExpand" HorizontalOptions="Start"/>
+          <Label x:Name="currencySourceName" Text="CUR" TextColor="#424242" FontSize="20" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+          <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onSourceTapped"/>
+          </StackLayout.GestureRecognizers>
+        </StackLayout>
+        <Label  Text="Exchange Currency One" FontSize="15" TextColor="#616161" VerticalOptions="Start"/>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="#ECEFF1" Padding="7, 7, 7, 7">
+          <FFImage:CachedImage x:Name="currencyOneImage" Source="creditcard.png" HeightRequest="25" WidthRequest="35" VerticalOptions="CenterAndExpand" HorizontalOptions="Start"/>
+          <Label x:Name="currencyOneName" Text="CUR" TextColor="#424242" FontSize="20" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+          <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onCurrencyOneTapped"/>
+          </StackLayout.GestureRecognizers>
+        </StackLayout>
+        <Label  Text="Exchange Currency Two" FontSize="15" TextColor="#616161" VerticalOptions="Start"/>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="#ECEFF1" Padding="7, 7, 7, 7">
+          <FFImage:CachedImage x:Name="currencyTwoImage" Source="creditcard.png" HeightRequest="25" WidthRequest="35" VerticalOptions="CenterAndExpand" HorizontalOptions="Start"/>
+          <Label x:Name="currencyTwoName" Text="CUR" TextColor="#424242" FontSize="20" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+          <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onCurrencyTwoTapped"/>
+          </StackLayout.GestureRecognizers>
+        </StackLayout>
+        <Label  Text="Exchange Currency Three" FontSize="15" TextColor="#616161" VerticalOptions="Start"/>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="#ECEFF1" Padding="7, 7, 7, 7">
+          <FFImage:CachedImage x:Name="currencyThreeImage" Source="creditcard.png" HeightRequest="25" WidthRequest="35" VerticalOptions="CenterAndExpand" HorizontalOptions="Start"/>
+          <Label x:Name="currencyThreeName" Text="CUR" TextColor="#424242" FontSize="20" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand"/>
+          <StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onCurrencyThreeTapped"/>
+          </StackLayout.GestureRecognizers>
+        </StackLayout>
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

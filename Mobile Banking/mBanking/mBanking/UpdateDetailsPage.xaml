@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:FFImage="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="mBanking.UpdateDetailsPage">
+  <ContentPage.Content>
+    <ScrollView>
+    <StackLayout Orientation="Vertical" Padding="10, 10, 10, 10" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="#B0BEC5">
+      <StackLayout x:Name="settingsView" Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Margin="15, 15, 15, 15">
+        <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+          <StackLayout x:Name="accountSettingsView" Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Padding="10, 15, 10, 15" Grid.Row="0" Grid.Column="0"  BackgroundColor="#FFFFFF">
+            <Label Text="Account Settings" VerticalOptions="Start" HorizontalTextAlignment="Start" FontSize="20"/>
+            <Image BackgroundColor="#000000" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="0, 5, 0, 5"/>
+            <StackLayout Orientation="Horizontal" VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand">
+              <FFImage:CachedImage x:Name="accountImage" Source="accounticon.png" HorizontalOptions="Start" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5"/>
+              <Button x:Name="selectImageButton" Text="Select Image" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Margin="5, 5, 5, 5" BackgroundColor="#90A4AE"/>
+            </StackLayout>
+            <Entry x:Name="nicknameEntry" PlaceholderColor="#454545" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand" Margin="5, 5, 5, 5"/>
+            <Image BackgroundColor="#000000" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="0, 5, 0, 5"/>
+            <StackLayout Orientation="Horizontal" VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand">
+              <Button x:Name="cancelButton" Text="CANCEL" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" Margin="5, 5, 5, 5" BackgroundColor="#90A4AE"/>
+              <Button x:Name="confirmButton" Text="OK" HorizontalOptions="End" VerticalOptions="CenterAndExpand" Margin="5, 5, 5, 5" BackgroundColor="#90A4AE"/>
+            </StackLayout>
+          </StackLayout>
+        </Grid>
+      </StackLayout>
+    </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

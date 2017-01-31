@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mBanking.LoadingPage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"  BackgroundColor="#B0BEC5">
+      <Label Text="Loading Data" FontSize="20" TextColor="#424242"  VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"/>
+      <ActivityIndicator Color="Blue" IsRunning="true" VerticalOptions="StartAndExpand" />
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>
