@@ -8,24 +8,16 @@
       <StackLayout x:Name="imagesView" Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Margin="15, 15, 15, 15" BackgroundColor="#FFFFFF">
         <Grid x:Name="accountImagesGrid" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" >
           <FFImage:CachedImage Source="male.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="0">
-            <StackLayout.GestureRecognizers>
-              <TapGestureRecognizer Tapped="onMaleImageTapped"/>
-            </StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onMaleImageTapped"></TapGestureRecognizer>
           </FFImage:CachedImage>
           <FFImage:CachedImage Source="female.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="1">
-            <StackLayout.GestureRecognizers>
-              <TapGestureRecognizer Tapped="onFemaleImageTapped"/>
-            </StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onFemaleImageTapped"></TapGestureRecognizer>
           </FFImage:CachedImage>
           <FFImage:CachedImage Source="banker.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="2">
-            <StackLayout.GestureRecognizers>
-              <TapGestureRecognizer Tapped="onBankerImageTapped"/>
-            </StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onBankerImageTapped"></TapGestureRecognizer>
           </FFImage:CachedImage>
           <FFImage:CachedImage Source="saver.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="3">
-            <StackLayout.GestureRecognizers>
-              <TapGestureRecognizer Tapped="onSaverImageTapped"/>
-            </StackLayout.GestureRecognizers>
+            <TapGestureRecognizer Tapped="onSaverImageTapped"></TapGestureRecognizer>
           </FFImage:CachedImage>
         </Grid>
       </StackLayout>

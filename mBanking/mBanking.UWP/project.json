@@ -4,11 +4,12 @@
     "Microsoft.Bcl": "1.1.10",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
     "PCLStorage": "1.0.2",
+    "Plugin.Permissions": "1.2.1",
     "Xam.Plugin.Geolocator": "3.0.4",
     "Xam.Plugins.Settings": "2.5.1",
     "Xamarin.FFImageLoading.Forms": "2.1.8",
     "Xamarin.Forms": "2.3.2.127",
-    "Xamarin.Forms.Maps": "2.3.2.127"
+    "Xamarin.Forms.Maps": "2.3.3.180"
   },
   "frameworks": {
     "uap10.0": {}

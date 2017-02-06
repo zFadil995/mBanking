@@ -184,6 +184,7 @@ Global
 		{B2A4EF85-804B-463D-A0D6-B912E22F9A11}.Debug|x64.ActiveCfg = Debug|iPhone
 		{B2A4EF85-804B-463D-A0D6-B912E22F9A11}.Debug|x64.Build.0 = Debug|iPhone
 		{B2A4EF85-804B-463D-A0D6-B912E22F9A11}.Debug|x86.ActiveCfg = Debug|iPhone
+		{B2A4EF85-804B-463D-A0D6-B912E22F9A11}.Debug|x86.Build.0 = Debug|iPhone
 		{B2A4EF85-804B-463D-A0D6-B912E22F9A11}.Release|Any CPU.ActiveCfg = Release|iPhone
 		{B2A4EF85-804B-463D-A0D6-B912E22F9A11}.Release|ARM.ActiveCfg = Release|iPhone
 		{B2A4EF85-804B-463D-A0D6-B912E22F9A11}.Release|iPhone.ActiveCfg = Release|iPhone

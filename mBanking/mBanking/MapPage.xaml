@@ -9,9 +9,7 @@
         <Label x:Name="atmAddress" Text="ATM Address" VerticalOptions="StartAndExpand" HorizontalOptions="Start"/>
       </StackLayout>
       <Image Source="navigation.png" VerticalOptions="CenterAndExpand" HorizontalOptions="EndAndExpand" HeightRequest="40" WidthRequest="40">
-        <StackLayout.GestureRecognizers>
-          <TapGestureRecognizer Tapped="onNavigationTapped"/>
-        </StackLayout.GestureRecognizers>
+        <TapGestureRecognizer Tapped="onNavigationTapped"></TapGestureRecognizer>
       </Image>
     </StackLayout>
   </StackLayout>

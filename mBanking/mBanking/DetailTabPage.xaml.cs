@@ -76,7 +76,7 @@ namespace mBanking
             }
         }
 
-        async void onAccountSettingsTapped(object sender, EventArgs e)
+        async void onUpdateAccountSettingsTapped(object sender, EventArgs e)
         {
             await Navigation.PushModalAsync(new mBanking.UpdateDetailsPage());
         }
