@@ -16,9 +16,11 @@
               <Label x:Name="accountWidgetName" Text="Account Nickname" FontSize="20" TextColor="#424242"  VerticalOptions="End"/>
               <Label x:Name="accountWidgetNumber" Text="0000 0000 0000 0000" FontSize="15" TextColor="#9E9E9E" VerticalOptions="Start"/>
             </StackLayout>
-            <Image Source="settings.png" HorizontalOptions="EndAndExpand" HeightRequest="20" WidthRequest="20" VerticalOptions="Start" Margin="5, 5, 5, 5">
-              <TapGestureRecognizer Tapped="onAccountSettingsTapped"></TapGestureRecognizer>
+            <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="Start" Margin="5, 5, 5, 5">
+            <Image Source="settings.png" HorizontalOptions="EndAndExpand" HeightRequest="20" WidthRequest="20" VerticalOptions="Start" >
             </Image>
+            <StackLayout.GestureRecognizers><TapGestureRecognizer Tapped="onAccountSettingsTapped"/></StackLayout.GestureRecognizers>
+          </StackLayout>
           </StackLayout>
           <Image BackgroundColor="#000000" HeightRequest="1" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="60, 5, 0, 0"/>
           <Label x:Name="accountWidgetBalance" Text="0 KM" FontSize="25" TextColor="#000000" HorizontalTextAlignment="End" VerticalOptions="Start" HorizontalOptions="FillAndExpand" Margin="0, 0, 0, 0"/>

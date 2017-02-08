@@ -123,9 +123,11 @@
             <Label x:Name="accountWidgetName" Text="Account Nickname" FontSize="20" TextColor="#FFFFFF"  VerticalOptions="End"/>
             <Label x:Name="accountWidgetNumber" Text="0000 0000 0000 0000" FontSize="15" TextColor="#F5F5F5" VerticalOptions="Start"/>
           </StackLayout>
-          <Image x:Name="detailSettings" Source="settings.png" HorizontalOptions="EndAndExpand" HeightRequest="25" WidthRequest="25" VerticalOptions="Start" Margin="5, 5, 5, 5">
-            <TapGestureRecognizer Tapped="onUpdateAccountSettingsTapped"></TapGestureRecognizer>
+          <StackLayout HorizontalOptions="EndAndExpand" VerticalOptions="Start" Margin="5, 5, 5, 5">
+          <Image x:Name="detailSettings" Source="settings.png" HorizontalOptions="EndAndExpand" HeightRequest="25" WidthRequest="25" VerticalOptions="Start">
           </Image>
+            <StackLayout.GestureRecognizers><TapGestureRecognizer Tapped="onUpdateAccountSettingsTapped"/></StackLayout.GestureRecognizers>
+          </StackLayout>
         </StackLayout>
       </Grid>
   </ContentPage.Content>

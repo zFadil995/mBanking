@@ -7,18 +7,37 @@
     <StackLayout Orientation="Vertical" Padding="10, 10, 10, 10" VerticalOptions="FillAndExpand" HorizontalOptions="Center" BackgroundColor="#B0BEC5">
       <StackLayout x:Name="imagesView" Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Margin="15, 15, 15, 15" BackgroundColor="#FFFFFF">
         <Grid x:Name="accountImagesGrid" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" >
-          <FFImage:CachedImage Source="male.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="0">
-            <TapGestureRecognizer Tapped="onMaleImageTapped"></TapGestureRecognizer>
+          <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="0">
+          <FFImage:CachedImage Source="male.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" >
           </FFImage:CachedImage>
-          <FFImage:CachedImage Source="female.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="1">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onMaleImageTapped"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="1">
+          <FFImage:CachedImage Source="female.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" >
             <TapGestureRecognizer Tapped="onFemaleImageTapped"></TapGestureRecognizer>
           </FFImage:CachedImage>
-          <FFImage:CachedImage Source="banker.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="2">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onFemaleImageTapped"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="2">
+          <FFImage:CachedImage Source="banker.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" >
             <TapGestureRecognizer Tapped="onBankerImageTapped"></TapGestureRecognizer>
           </FFImage:CachedImage>
-          <FFImage:CachedImage Source="saver.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="3">
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onBankerImageTapped"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
+          <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" Margin="5, 5, 5, 5" Grid.Row="0" Grid.Column="3">
+          <FFImage:CachedImage Source="saver.png" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" HeightRequest="60" WidthRequest="60" DownsampleToViewSize="true" >
             <TapGestureRecognizer Tapped="onSaverImageTapped"></TapGestureRecognizer>
           </FFImage:CachedImage>
+            <StackLayout.GestureRecognizers>
+              <TapGestureRecognizer Tapped="onSaverImageTapped"></TapGestureRecognizer>
+            </StackLayout.GestureRecognizers>
+          </StackLayout>
         </Grid>
       </StackLayout>
     </StackLayout>
