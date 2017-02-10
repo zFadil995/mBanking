@@ -1,11 +1,7 @@
 ﻿using mBanking;
 using mBanking.UWP;
 using System.Collections.ObjectModel;
-using System.IO;
-using System.Xml;
-using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Markup;
 using Xamarin.Forms.Platform.UWP;
 
 [assembly: ExportRenderer(typeof(mListView), typeof(mListViewRenderer))]
